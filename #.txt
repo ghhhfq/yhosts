@@ -1,10 +1,424 @@
-﻿http://img.zuoyebang.cc/zyb_cf102111ff55d956a1365cd311eaac0e.jpg
+﻿#xunlei
+127.0.0.1 hub5btmain.sandai.net
+127.0.0.1 hub5emu.sandai.net
+127.0.0.1 upgrade.xl9.xunlei.com
+
+http://im-x.jd.com:443
+http://d.jd.com:443
+http://gia.jd.com:443
+https://gia.jd.com/y.html?v=0.406636398664997&o=re.jd.com/cps/item/5602251.html
+https://dp3.qq.com/stdlog/?bid=10091006&appuser=&requestid=8044460a-a8af-4e6b-8035-6ff3dc9e59dd&guid=473ae75c011ca7d2d9ac1c34189af15e&pf=in&pfEx=pc&chid=0&timestamp=1510138132159&mvid=r0566gbscjw&videoDuration=2191.32&coverid=2juld9h6rjo5i1x&qq=o1172783377&pversion=3.4.22&live=0&version=gpgp_outsite&ua=chrome61&adtype=LD|KB|PVL&isTrueView=false&adid=1&oid=3692731,3675319,1805918120,3648005,3648143&vid=l02001ujmv6,e02005suko0,f0200tj3vty,x0200sssd7u,e0200na7x0z&adclick=3692731&clicktime=10559&step=4
+http://imc.l.qq.com/click?oid=3692731&cid=2319897&adtype=LD&refluence=4003&requestl=4003&soid=70E9062700885A02E11380216400&aver=0&ev=6.0.164.164&aver_flag=6148&tagid=10025185&si=731111690&target=4003&isfloatindex=0&pf=in&loc=LV_1001_LDVi_LD&vptag=iqiyi&click_data=dXNlcl9pbmZvPXZCejVuamt3RnhXNkd1T0JJejRURTdRZSZ1cF92ZXJzaW9uPVY2LjAuMTY0LjE2NA==&chid=0&live=0&aid_tpid=10&aid_tpid2=1001&aid_tpid3=10001&aid_dura=2191&aid_vid_drm=0&aid_cid_drm=0&aid_copyright=467&aid_cover=2juld9h6rjo5i1x&aid_subtype=9_1&aid_column=55289&aid_vip_type=1
+http://119.188.44.155/variety.tc.qq.com/AhAiJECG_MADRDSlHRnIt2aw532FgQd60lHJ-GARuR38/e02008vfoqx.p201.1.mp4?vkey=53E85D2F1F6F7ABAF412D6E6A03536620200AA35387B9512E80ACAF8E015F380D3A3FC1CF41A3B27A9D0390730243229D609D359283D2A99635BE8D2DEA0A1D6549BD3C541A53D5B4409CBAC8DAABBAE09F1E0FB7D4B8029FC6B630D7B064D60B21CA6B1FA5318B7530522F6496F6751B956803BCFAC93FC&platform=10201&sdtfrom=&fmt=shd&level=0&locid=6fa3378e-9ed8-4cf4-91f0-239e3262fa40&size=2551249&ocid=2498304172
+
+http://119.188.44.155/variety.tc.qq.com/AhAiJECG_MADRDSlHRnIt2aw532FgQd60lHJ-GARuR38/e02008vfoqx.p201.1.mp4?vkey=53E85D2F1F6F7ABAF412D6E6A03536620200AA35387B9512E80ACAF8E015F380D3A3FC1CF41A3B27A9D0390730243229D609D359283D2A99635BE8D2DEA0A1D6549BD3C541A53D5B4409CBAC8DAABBAE09F1E0FB7D4B8029FC6B630D7B064D60B21CA6B1FA5318B7530522F6496F6751B956803BCFAC93FC&platform=10201&sdtfrom=&fmt=shd&level=0&locid=6fa3378e-9ed8-4cf4-91f0-239e3262fa40&size=2551249&ocid=2498304172
+
+
+127.0.0.1 disp.titan.mgtv.com
+127.0.0.1 disp1.titan.mgtv.com
+【一.条.狗.的.使.命.mp4】 http://disp.titan.mgtv.com/vod.do?fmt=4&pno=1031&fid=4523EEC064E7C9D3F32235E46020BAA5&file=/c1/2017/05/03_0/4523EEC064E7C9D3F32235E46020BAA5_20170503_1_1_889.mp4
+http://60.217.249.146/vlive.qqvideo.tc.qq.com/AkUjwQllyJ3XQVo544JpngTRQEmmaX6-F30EQMaXsoUU/f0200tj3vty.p201.1.mp4?vkey=50B892660E29FA115AEAFA0102F1C3464F45A9BC85E9BEF86748295713C3D68F6792C46A84F75B60EB8BB926062757222479DF9AA6E52FB45E83F9C276BB2632378D176AF4178AD6F2971437016E1DA1662BD4C6CA51E9524E33382AB8214AAFD4D97EE1A0DA46D2E9E41557E8184ECE3C9DDF4EB29E7D7A&platform=10201&sdtfrom=&fmt=shd&level=0&locid=cfeb3172-3b86-4b4c-87ef-40e363c9bca0&size=2558125&ocid=2573604268
+https://mfm.video.qq.com/danmu?otype=json&callback=jQuery1910539093510913198_1510137665471&timestamp=45&target_id=2196595083&count=80&second_count=6&session_key=0%2C0%2C0&_=1510137665500
+
+http://nbsdk-baichuan.alicdn.com:443
+http://statis.mobile.youku.com:443
+http://iyes.youku.com:443
+http://acs4baichuan.m.taobao.com:443
+http://push.m.youku.com:443
+http://m.irs01.com:443
+http://adp.atm.youku.com/predict
+http://adp.atm.youku.com:443
+http://m.atm.youku.com:443
+http://v.irs01.com:443
+<img src="http://api.ijunhai.com/channelAd/getAdParams/pf/2/channel_ad/dianruiweb/junhai_adid/14459/game_id/U200000048" style="width: 0px; height: 0px; display: none;">
+http://adashxgc.ut.taobao.com:443
+http://dp.im.weibo.cn:443
+http://wbapp.uve.weibo.com:443
+http://wbapp.uve.weibo.com/wbapplua/wbpullad.lua?wm=3333_2001&i=87be40d&b=0&from=107A393010&c=iphone&networktype=wifi&v_p=54&skin=default&v_f=1&lang=zh_CN&sflag=1&ua=iPhone10,2__weibo__7.10.3__iphone__os11.1&ft=0&aid=01AnZ5jIoPQOi148wc4GfGxtE_hrolNNht_-5R3noiYLqoGFI.
+http://u1.img.mobile.sina.cn/public/files/image/840x1110_img5a00397dcb4a0.gif
+http://adashbc.ut.taobao.com:443
+http://sdkapp.uve.weibo.com:443
+http://us.sinaimg.cn/0013rhL3jx07fyoR6J6o01040100lIUP0k01.mp4?label=mp4_hd&template=28&Expires=1509894014&ssig=vNO1oxiCTZ&KID=unistore,video
+https://river.zhidao.baidu.com/anwvin?tqu=DG&iup=FGB&pu=5EBGKFBC&xfg=s4403kELkDQkDQAstolzkimlto5kinzxkDQ15p34tzykDQCCCDGJEEEKBCFBKDIIKkis4xw&mzf=C&bmd=DGHB8CEKB&bue=jC8jC&pue=B&po=D&be=CBGH8IEF&mdu=D&pmu=C&pfy=SbXWi_Zab&fbd=CGBKKHGIIHJBI&qjbe=CCCBBD&bdaf=D&pdu=B&oqo=RMV&bee=DGEK8DCEC&boe=DGEK8CDIC&3a3=fyedj0w8sq17ocn5ewmi&8h3=gixyridhd4rrv34n29&xg3=xzm4jclx5owz8c7kfbt9&ys5=jcp9efzqb1bwsfko6r&0v8=tsxl8e2anljm7ca0pb9
+
+127.0.0.1 us.sinaimg.cn
+
+
+http://co.dtech.baofeng.com/logger.php?enc=0&appkey=bfapp_iphone&ltype=pv&log=%7B%22uid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22vendorid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22idfa%22:%225BC976EE-E986-4F7E-BE5A-B22F605859C5%22,%22mac%22:%22020000000000%22,%22mtype%22:%22iPhone10,2%22,%22apns_token%22:%22%22,%22mos%22:%2211.1%22,%22unet%22:1,%22gid%22:%22appstore%22,%22userid%22:%22%22,%22itime%22:%222017-11-06%2018:27:31%22,%22ver%22:%225.3.4%22,%22value%22:%7B%22ref_id%22:%22%22,%22from%22:%22%22,%22ver_switch%22:%221%22,%22pv_title%22:%22jingxuan%22,%22from_pre%22:%22jingxuan%22,%22showtime%22:%22%22,%22request_id%22:%22Nnot53irbtQFL_11003_45%22,%22active_id%22:%2249D94B8B-1533-456B-922B-2EB7683D55B0%22,%22page_id%22:%22%22,%22from_sub%22:%22%22,%22loc%22:%22%22%7D%7D
+http://iphonelog.shouji.baofeng.com/logger.php?ltype=iphoneactive&uid=45DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E&ver=5.3.4&pid=iphone&gid=appstore&msg=%7B%22vendorid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22mtype%22:%22iPhone10,2%22,%22mos%22:%2211.1%22,%22itime%22:%222017-11-06%2018:27:32%22,%22hell%22:%2237%22,%22utype%22:%220%22,%22idfa%22:%225BC976EE-E986-4F7E-BE5A-B22F605859C5%22,%22unet%22:%220%22,%22token%22:%22(null)%22,%22gtcid%22:%22%22,%22forb%22:%221%22,%22userid%22:%22%22,%22loc%22:%22%22,%22applaunchtime%22:%220%22,%22from%22:%22icon%22,%22pushswitch%22:%22-1%22,%22variety%22:%22kuaigeng%22,%22count%22:%223%22,%22appusagetime%22:%22%22,%22active_id%22:%2249D94B8B-1533-456B-922B-2EB7683D55B0%22,%22ver_switch%22:%221%22%7D
+http://iphonelog.shouji.baofeng.com/logger.php?ltype=iPhonePersData&pid=iPhonemobile&uid=45DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E&gid=appstore&ver=5.3.4&msg=%7B%22vendorid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22mtype%22:%22iPhone10,2%22,%22mos%22:%2211.1%22,%22unet%22:%220%22,%22login%22:%220%22,%22action%22:%22%22,%22multi%22:%22%22,%22aid%22:%22%22,%22from%22:%22%22,%22idfa%22:%225BC976EE-E986-4F7E-BE5A-B22F605859C5%22,%22vipplay%22:%22%22,%22vippromode%22:%22%22,%22vippay%22:%22%22,%22productid%22:%22%22,%22contype%22:%221%22,%22concon%22:%22%22,%22missin%22:%221%22,%22userid%22:%22%22,%22gtcid%22:%22%22,%22token%22:%22%22,%22loc%22:%22%22%7D
+http://iphonelog.shouji.baofeng.com/logger.php?ltype=iphoneplayprocess&pid=iphone&uid=45DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E&gid=appstore&ver=5.3.4&msg=%7B%22vendorid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22unet%22:%220%22,%22mtype%22:%22iPhone10,2%22,%22mos%22:%2211.1%22,%22aid%22:%229984293%22,%22atype%22:%222%22,%22vid%22:%2223373085%22,%22playadvertiser%22:%221%22,%22advertisertime%22:%22880987%22,%22vip%22:%222%22,%22wid%22:%22bf-union%22,%22hell%22:%2237%22,%22moviesource%22:%221%22,%22decoder%22:%221%22,%22format%22:%22p2p%22,%22baofengplayer%22:%221%22,%22itime%22:%222017-11-06%2018:23:14%22,%22tryminfo%22:%221%22,%22gettryminfotime%22:%222%22,%22getminfo%22:%221%22,%22getminfotime%22:%22649%22,%22trycrackurl%22:%221%22,%22gettrycrackurltime%22:%220%22,%22crackurl%22:%221%22,%22getcrackurltime%22:%2273%22,%22trybfplayer%22:%221%22,%22getbfplayertime%22:%223222%22,%22tryplayerbuffer%22:%222%22,%22gettryplayerbuffertime%22:%22877600%22,%22playerbuffer%22:%222%22,%22playerbuffertime%22:%220%22,%22userexit%22:%222%22,%22userexittime%22:%22881548%22,%22enterbackground%22:%222%22,%22enterbackgroundtime%22:%22867411%22%7D
+http://co.dtech.baofeng.com/logger.php?enc=0&appkey=bfapp_iphone&ltype=display&log=%7B%22uid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22vendorid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22idfa%22:%225BC976EE-E986-4F7E-BE5A-B22F605859C5%22,%22mac%22:%22020000000000%22,%22mtype%22:%22iPhone10,2%22,%22apns_token%22:%22%22,%22mos%22:%2211.1%22,%22unet%22:1,%22gid%22:%22appstore%22,%22userid%22:%22%22,%22itime%22:%222017-11-06%2018:23:15%22,%22ver%22:%225.3.4%22,%22value%22:%7B%22card_algInfo%22:%22%22,%22page_id%22:%22149%22,%22showtime%22:%226889%22,%22ui_type%22:%22%22,%22request_id%22:%22Nnot53irbtQFL_11003_45%22,%22from%22:%22%22,%22pv_title%22:%22play_detail%22,%22order_id%22:%222%22,%22ver_switch%22:%221%22,%22loc_lv4%22:%22%22,%22ref_id%22:%229984293%22,%22active_id%22:%2249D94B8B-1533-456B-922B-2EB7683D55B0%22,%22card_type%22:%22%22,%22section_id%22:%22f002%22,%22aid_set%22:%22%22,%22from_pre%22:%22play_detail%22%7D%7D
+http://co.dtech.baofeng.com/logger.php?enc=0&appkey=bfapp_iphone&ltype=display&log=%7B%22uid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22vendorid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22idfa%22:%225BC976EE-E986-4F7E-BE5A-B22F605859C5%22,%22mac%22:%22020000000000%22,%22mtype%22:%22iPhone10,2%22,%22apns_token%22:%22%22,%22mos%22:%2211.1%22,%22unet%22:1,%22gid%22:%22appstore%22,%22userid%22:%22%22,%22itime%22:%222017-11-06%2018:23:15%22,%22ver%22:%225.3.4%22,%22value%22:%7B%22card_algInfo%22:%22%22,%22page_id%22:%22149%22,%22showtime%22:%226889%22,%22ui_type%22:%22%22,%22request_id%22:%22Nnot53irbtQFL_11003_45%22,%22from%22:%22%22,%22pv_title%22:%22play_detail%22,%22order_id%22:%221%22,%22ver_switch%22:%221%22,%22loc_lv4%22:%22%22,%22ref_id%22:%229984293%22,%22active_id%22:%2249D94B8B-1533-456B-922B-2EB7683D55B0%22,%22card_type%22:%220%22,%22section_id%22:%22f001%22,%22aid_set%22:%22%22,%22from_pre%22:%22play_detail%22%7D%7D
+http://co.dtechiphone.shouji.baofeng.com.baofeng.com/logger.php?enc=0&appkey=bfapp_iphone&ltype=pv&log=%7B%22uid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22vendorid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22idfa%22:%225BC976EE-E986-4F7E-BE5A-B22F605859C5%22,%22mac%22:%22020000000000%22,%22mtype%22:%22iPhone10,2%22,%22apns_token%22:%22%22,%22mos%22:%2211.1%22,%22unet%22:1,%22gid%22:%22appstore%22,%22userid%22:%22%22,%22itime%22:%222017-11-06%2018:23:08%22,%22ver%22:%225.3.4%22,%22value%22:%7B%22ref_id%22:%229984293%22,%22from%22:%22%22,%22ver_switch%22:%221%22,%22pv_title%22:%22play_detail%22,%22from_pre%22:%22jingxuan%22,%22showtime%22:%22%22,%22request_id%22:%22Nnot53irbtQFL_11003_45%22,%22active_id%22:%2249D94B8B-1533-456B-922B-2EB7683D55B0%22,%22page_id%22:%22149%22,%22from_sub%22:%22%22,%22loc%22:1%7D%7D
+http://iphonelog.shouji.baofeng.com/logger.php?ltype=iphoneplayprocess&pid=iphone&uid=45DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E&gid=appstore&ver=5.3.4&msg=%7B%22vendorid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22unet%22:%220%22,%22mtype%22:%22iPhone10,2%22,%22mos%22:%2211.1%22,%22aid%22:%2214193683%22,%22atype%22:%2236%22,%22vid%22:%22%22,%22playadvertiser%22:%222%22,%22advertisertime%22:%220%22,%22vip%22:%222%22,%22wid%22:%22%22,%22hell%22:%2237%22,%22moviesource%22:%221%22,%22decoder%22:%220%22,%22format%22:%22%22,%22baofengplayer%22:%223%22,%22itime%22:%222017-11-06%2018:24:31%22,%22tryminfo%22:%221%22,%22gettryminfotime%22:%221%22,%22getminfo%22:%2251%22,%22getminfotime%22:%2275149%22,%22trycrackurl%22:%220%22,%22gettrycrackurltime%22:%220%22,%22crackurl%22:%220%22,%22getcrackurltime%22:%220%22,%22trybfplayer%22:%220%22,%22getbfplayertime%22:%220%22,%22tryplayerbuffer%22:%220%22,%22gettryplayerbuffertime%22:%220%22,%22playerbuffer%22:%220%22,%22playerbuffertime%22:%220%22,%22userexit%22:%220%22,%22userexittime%22:%220%22,%22enterbackground%22:%221%22,%22enterbackgroundtime%22:%220%22%7D
+http://co.dtech.baofeng.com/logger.php?enc=0&appkey=bfapp_iphone&ltype=pv&log=%7B%22uid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22vendorid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22idfa%22:%225BC976EE-E986-4F7E-BE5A-B22F605859C5%22,%22mac%22:%22020000000000%22,%22mtype%22:%22iPhone10,2%22,%22apns_token%22:%22%22,%22mos%22:%2211.1%22,%22unet%22:1,%22gid%22:%22appstore%22,%22userid%22:%22%22,%22itime%22:%222017-11-06%2018:23:15%22,%22ver%22:%225.3.4%22,%22value%22:%7B%22ref_id%22:%229984293%22,%22from%22:%22%22,%22ver_switch%22:%221%22,%22pv_title%22:%22play_detail%22,%22from_pre%22:%22jingxuan%22,%22showtime%22:%226909%22,%22request_id%22:%22Nnot53irbtQFL_11003_45%22,%22active_id%22:%2249D94B8B-1533-456B-922B-2EB7683D55B0%22,%22page_id%22:%22149%22,%22from_sub%22:%22%22,%22loc%22:1%7D%7D
+http://iphonelog.shouji.baofeng.com/logger.php?ltype=iPhoneIndex&pid=iPhonemobile&uid=45DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E&gid=appstore&ver=5.3.4&msg=%7B%22vendorid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22mtype%22:%22iPhone10,2%22,%22mos%22:%2211.1%22,%22id%22:%22%22,%22aid%22:%2214193683%22,%22pre_ilocation%22:%22jingxuan%22,%22ilocation%22:%22%E5%90%8C%E6%AD%A5%E5%88%97%E8%A1%A8%22,%22itime%22:%222017-11-06%2018:23:16%22,%22hell%22:%2237%22,%22utype%22:%220%22,%22unet%22:%220%22,%22idfa%22:%225BC976EE-E986-4F7E-BE5A-B22F605859C5%22,%22position%22:%221%22,%22sub_ilocation%22:%22mianduizijiqinxiongdidequangao%EF%BC%8Ctayoushifouhuitingne%EF%BC%9F%22,%22atype%22:%2236%22,%22title%22:%22%22,%22user_id%22:%22%22,%22click_num%22:%220%22,%22active_id%22:%2249D94B8B-1533-456B-922B-2EB7683D55B0%22,%22ver_switch%22:%221%22,%22request_id%22:%22Nnot53irbtQFL_11003_45%22,%22card_type%22:%2215%22,%22order_id%22:%223%22,%22is_vip%22:%222%22,%22card_alginfo%22:%22rc-2cf-1model-2lr3%22,%22ref_id%22:%22%22,%22page_id%22:%22%22,%22loc_lv4%22:%22%22,%22section_id%22:%2213618%22,%22ui_type%22:%2237%22,%22aid_alginfo%22:%22rc-2cf-1model-2lr3%22%7D
+http://co.dtech.baofeng.com/logger.php?enc=0&appkey=bfapp_iphone&ltype=display&log=%7B%22uid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22vendorid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22idfa%22:%225BC976EE-E986-4F7E-BE5A-B22F605859C5%22,%22mac%22:%22020000000000%22,%22mtype%22:%22iPhone10,2%22,%22apns_token%22:%22%22,%22mos%22:%2211.1%22,%22unet%22:1,%22gid%22:%22appstore%22,%22userid%22:%22%22,%22itime%22:%222017-11-06%2018:25:04%22,%22ver%22:%225.3.4%22,%22value%22:%7B%22card_algInfo%22:%22rc-2cf-1model-2lr3%22,%22page_id%22:%22%22,%22showtime%22:%22107602%22,%22ui_type%22:%2237%22,%22request_id%22:%22Nnot53irbtQFL_11003_45%22,%22from%22:%22list%22,%22pv_title%22:%22jingxuan%22,%22order_id%22:%223%22,%22ver_switch%22:%221%22,%22loc_lv4%22:%22%22,%22ref_id%22:%22%22,%22active_id%22:%2249D94B8B-1533-456B-922B-2EB7683D55B0%22,%22card_type%22:%2215%22,%22section_id%22:%2213618%22,%22aid_set%22:%2214193683,12480019%22,%22from_pre%22:%22jingxuan%22%7D%7D
+http://co.dtech.baofeng.com/logger.php?enc=0&appkey=bfapp_iphone&ltype=display&log=%7B%22uid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22vendorid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22idfa%22:%225BC976EE-E986-4F7E-BE5A-B22F605859C5%22,%22mac%22:%22020000000000%22,%22mtype%22:%22iPhone10,2%22,%22apns_token%22:%22%22,%22mos%22:%2211.1%22,%22unet%22:1,%22gid%22:%22appstore%22,%22userid%22:%22%22,%22itime%22:%222017-11-06%2018:23:18%22,%22ver%22:%225.3.4%22,%22value%22:%7B%22card_algInfo%22:%22%22,%22page_id%22:%22%22,%22showtime%22:%221762%22,%22ui_type%22:%228%22,%22request_id%22:%22Nnot53irbtQFL_11003_45%22,%22from%22:%22focus%22,%22pv_title%22:%22jingxuan%22,%22order_id%22:%221%22,%22ver_switch%22:%221%22,%22loc_lv4%22:%22%22,%22ref_id%22:%22%22,%22active_id%22:%2249D94B8B-1533-456B-922B-2EB7683D55B0%22,%22card_type%22:%221%22,%22section_id%22:%228003%22,%22aid_set%22:%2214790856,14813551,14801312,13110174,12759083,12779119,12726548,12304153%22,%22from_pre%22:%22jingxuan%22%7D%7D
+http://nclog.pad.baofeng.net/mplay.php?systype=0&nettype=1&bufpercent=0&playad=0&getqstp=1&getqstptm=3&startp2p=1&startp2ptm=0&starthttp=1&starthttptm=0&fstbuf=0&fstbuftm=6645&errcode=0&uid=45DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E&gcid=12A0DDCF15271C2645ECFEB895A1B75FB8F615F4&stver=5.3.4&p2pver=1.7.1&eqtype=0&vcstdd=0&sysver=11.1&decode=1&chgsc=0
+http://co.dtech.baofeng.com/logger.php?enc=0&appkey=bfapp_iphone&ltype=pv&log=%7B%22uid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22vendorid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22idfa%22:%225BC976EE-E986-4F7E-BE5A-B22F605859C5%22,%22mac%22:%22020000000000%22,%22mtype%22:%22iPhone10,2%22,%22apns_token%22:%22%22,%22mos%22:%2211.1%22,%22unet%22:1,%22gid%22:%22appstore%22,%22userid%22:%22%22,%22itime%22:%222017-11-06%2018:25:04%22,%22ver%22:%225.3.4%22,%22value%22:%7B%22ref_id%22:%22%22,%22from%22:%22%22,%22ver_switch%22:%221%22,%22pv_title%22:%22jingxuan%22,%22from_pre%22:%22jingxuan%22,%22showtime%22:%22107606%22,%22request_id%22:%22Nnot53irbtQFL_11003_45%22,%22active_id%22:%2249D94B8B-1533-456B-922B-2EB7683D55B0%22,%22page_id%22:%22%22,%22from_sub%22:%22%22,%22loc%22:%22%22%7D%7D
+http://co.dtech.baofeng.com/logger.php?enc=0&appkey=bfapp_iphone&ltype=display&log=%7B%22uid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22vendorid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22idfa%22:%225BC976EE-E986-4F7E-BE5A-B22F605859C5%22,%22mac%22:%22020000000000%22,%22mtype%22:%22iPhone10,2%22,%22apns_token%22:%22%22,%22mos%22:%2211.1%22,%22unet%22:1,%22gid%22:%22appstore%22,%22userid%22:%22%22,%22itime%22:%222017-11-06%2018:23:15%22,%22ver%22:%225.3.4%22,%22value%22:%7B%22card_algInfo%22:%22%22,%22page_id%22:%22149%22,%22showtime%22:%226889%22,%22ui_type%22:%2253%22,%22request_id%22:%22Nnot53irbtQFL_11003_45%22,%22from%22:%22%22,%22pv_title%22:%22play_detail%22,%22order_id%22:%223%22,%22ver_switch%22:%221%22,%22loc_lv4%22:%22%22,%22ref_id%22:%229984293%22,%22active_id%22:%2249D94B8B-1533-456B-922B-2EB7683D55B0%22,%22card_type%22:%22100%22,%22section_id%22:%2214252%22,%22aid_set%22:%22%22,%22from_pre%22:%22play_detail%22%7D%7D
+http://nclog.pad.baofeng.net/mplay.php?systype=0&nettype=1&bufpercent=0&playad=1&getqstp=1&getqstptm=4030&startp2p=1&startp2ptm=5&starthttp=1&starthttptm=0&fstbuf=0&fstbuftm=0&errcode=0&uid=45DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E&gcid=12A0DDCF15271C2645ECFEB895A1B75FB8F615F4&stver=5.3.4&p2pver=1.7.1&eqtype=0&vcstdd=0&sysver=11.1&decode=1&chgsc=0
+http://co.dtech.baofeng.com/logger.php?enc=0&appkey=bfapp_iphone&ltype=pv&log=%7B%22uid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22vendorid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22idfa%22:%225BC976EE-E986-4F7E-BE5A-B22F605859C5%22,%22mac%22:%22020000000000%22,%22mtype%22:%22iPhone10,2%22,%22apns_token%22:%22%22,%22mos%22:%2211.1%22,%22unet%22:1,%22gid%22:%22appstore%22,%22userid%22:%22%22,%22itime%22:%222017-11-06%2018:23:16%22,%22ver%22:%225.3.4%22,%22value%22:%7B%22ref_id%22:%22%22,%22from%22:%22%22,%22ver_switch%22:%221%22,%22pv_title%22:%22jingxuan%22,%22from_pre%22:%22jingxuan%22,%22showtime%22:%22%22,%22request_id%22:%22Nnot53irbtQFL_11003_45%22,%22active_id%22:%2249D94B8B-1533-456B-922B-2EB7683D55B0%22,%22page_id%22:%22%22,%22from_sub%22:%22%22,%22loc%22:%22%22%7D%7D
+http://iphonelog.shouji.baofeng.com/logger.php?ltype=iphonevv&pid=iphone&uid=45DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E&gid=appstore&ver=5.3.4&msg=%7B%22vendorid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22mtype%22:%22iPhone10,2%22,%22mos%22:%2211.1%22,%22unet%22:%220%22,%22id%22:%22%22,%22aid%22:%2214193683%22,%22atype%22:%2236%22,%22vid%22:%22%22,%22wid%22:%22%22,%22pre_cid%22:%22jingxuan%22,%22cid%22:%22%E5%90%8C%E6%AD%A5%E5%88%97%E8%A1%A8%22,%22topic%22:%220%22,%22ptype%22:%220%22,%22type%22:%221%22,%22ltime%22:%220.000%22,%22date%22:%222017-11-06%2018:23:16%22,%22hell%22:%2237%22,%22style%22:%221%22,%22utype%22:%220%22,%22idfa%22:%225BC976EE-E986-4F7E-BE5A-B22F605859C5%22,%22errorcode%22:%22%22,%22cstype%22:%22%22,%22changesource%22:%22%22,%22vtype%22:%221%22,%22shortfrom%22:%22%22,%22pausetime%22:%22%22,%22format%22:%22%22,%22clarity%22:%223%22,%22datafrom%22:%220%22,%22vtitle%22:%22%22,%22sub_cid%22:%22mianduizijiqinxiongdidequangao%EF%BC%8Ctayoushifouhuitingne%EF%BC%9F%22,%22pretime%22:%220.000%22,%22parsetime%22:%220.000%22,%22loadingtime%22:%220.000%22,%22user_id%22:%22%22,%22position%22:%221%22,%22status%22:%22%22,%22active_id%22:%2249D94B8B-1533-456B-922B-2EB7683D55B0%22,%22section_id%22:%2213618%22,%22ui_type%22:%2237%22,%22card_type%22:%2215%22,%22ver_switch%22:%221%22,%22order_id%22:%223%22,%22request_id%22:%22Nnot53irbtQFL_11003_45%22,%22speed%22:%220%22,%22card_alginfo%22:%22rc-2cf-1model-2lr3%22,%22aid_alginfo%22:%22rc-2cf-1model-2lr3%22,%22ref_id%22:%22%22,%22page_id%22:%22%22,%22ftime%22:%220%22,%22percent%22:%220%22,%22loc_lv4%22:%22%22%7D
+http://iphonelog.shouji.baofeng.com/logger.php?ltype=iphonevv&pid=iphone&uid=45DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E&gid=appstore&ver=5.3.4&msg=%7B%22vendorid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22mtype%22:%22iPhone10,2%22,%22mos%22:%2211.1%22,%22unet%22:%220%22,%22id%22:%22%22,%22aid%22:%2214193683%22,%22atype%22:%2236%22,%22vid%22:%22%22,%22wid%22:%22%22,%22pre_cid%22:%22jingxuan%22,%22cid%22:%22%E5%90%8C%E6%AD%A5%E5%88%97%E8%A1%A8%22,%22topic%22:%220%22,%22ptype%22:%220%22,%22type%22:%226%22,%22ltime%22:%220.000%22,%22date%22:%222017-11-06%2018:24:31%22,%22hell%22:%2237%22,%22style%22:%221%22,%22utype%22:%220%22,%22idfa%22:%225BC976EE-E986-4F7E-BE5A-B22F605859C5%22,%22errorcode%22:%22%22,%22cstype%22:%22%22,%22changesource%22:%22%22,%22vtype%22:%221%22,%22shortfrom%22:%22%22,%22pausetime%22:%22%22,%22format%22:%22%22,%22clarity%22:%223%22,%22datafrom%22:%220%22,%22vtitle%22:%22%22,%22sub_cid%22:%22mianduizijiqinxiongdidequangao%EF%BC%8Ctayoushifouhuitingne%EF%BC%9F%22,%22pretime%22:%220.000%22,%22parsetime%22:%220.000%22,%22loadingtime%22:%220.000%22,%22user_id%22:%22%22,%22position%22:%221%22,%22status%22:%223%22,%22active_id%22:%2249D94B8B-1533-456B-922B-2EB7683D55B0%22,%22section_id%22:%2213618%22,%22ui_type%22:%2237%22,%22card_type%22:%2215%22,%22ver_switch%22:%221%22,%22order_id%22:%223%22,%22request_id%22:%22Nnot53irbtQFL_11003_45%22,%22speed%22:%220%22,%22card_alginfo%22:%22rc-2cf-1model-2lr3%22,%22aid_alginfo%22:%22rc-2cf-1model-2lr3%22,%22ref_id%22:%22%22,%22page_id%22:%22%22,%22ftime%22:%220%22,%22percent%22:%220%22,%22loc_lv4%22:%22%22%7D
+http://co.dtech.baofeng.com/logger.php?enc=0&appkey=bfapp_iphone&ltype=display&log=%7B%22uid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22vendorid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22idfa%22:%225BC976EE-E986-4F7E-BE5A-B22F605859C5%22,%22mac%22:%22020000000000%22,%22mtype%22:%22iPhone10,2%22,%22apns_token%22:%22%22,%22mos%22:%2211.1%22,%22unet%22:1,%22gid%22:%22appstore%22,%22userid%22:%22%22,%22itime%22:%222017-11-06%2018:25:04%22,%22ver%22:%225.3.4%22,%22value%22:%7B%22card_algInfo%22:%22rc-2cf-1model-2lr3%22,%22page_id%22:%22%22,%22showtime%22:%22105840%22,%22ui_type%22:%2237%22,%22request_id%22:%22Nnot53irbtQFL_11003_45%22,%22from%22:%22list%22,%22pv_title%22:%22jingxuan%22,%22order_id%22:%224%22,%22ver_switch%22:%221%22,%22loc_lv4%22:%22%22,%22ref_id%22:%22%22,%22active_id%22:%2249D94B8B-1533-456B-922B-2EB7683D55B0%22,%22card_type%22:%2215%22,%22section_id%22:%2213618%22,%22aid_set%22:%2214193682,12480019%22,%22from_pre%22:%22jingxuan%22%7D%7D
+http://co.dtech.baofeng.com/logger.php?enc=0&appkey=bfapp_iphone&ltype=display&log=%7B%22uid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22vendorid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22idfa%22:%225BC976EE-E986-4F7E-BE5A-B22F605859C5%22,%22mac%22:%22020000000000%22,%22mtype%22:%22iPhone10,2%22,%22apns_token%22:%22%22,%22mos%22:%2211.1%22,%22unet%22:1,%22gid%22:%22appstore%22,%22userid%22:%22%22,%22itime%22:%222017-11-06%2018:25:04%22,%22ver%22:%225.3.4%22,%22value%22:%7B%22card_algInfo%22:%22rc-2cf-1model-2lr3%22,%22page_id%22:%22%22,%22showtime%22:%22107602%22,%22ui_type%22:%2242%22,%22request_id%22:%22Nnot53irbtQFL_11003_45%22,%22from%22:%22list%22,%22pv_title%22:%22jingxuan%22,%22order_id%22:%222%22,%22ver_switch%22:%221%22,%22loc_lv4%22:%22%22,%22ref_id%22:%22%22,%22active_id%22:%2249D94B8B-1533-456B-922B-2EB7683D55B0%22,%22card_type%22:%2215%22,%22section_id%22:%2213611%22,%22aid_set%22:%229984293%22,%22from_pre%22:%22jingxuan%22%7D%7D
+http://nclog.pad.baofeng.net/playfeel.php?systype=0&nettype=1&bufpercent=0&fstquittm=6646&fstbuftm=0&fstplaytm=0&playtm=0&stoptms=0&stoptm=0&stopquittm=0&uid=45DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E&gcid=12A0DDCF15271C2645ECFEB895A1B75FB8F615F4&stver=5.3.4&p2pver=1.7.1&eqtype=0&vcstdd=0&sysver=11.1&decode=1&chgsc=0
+http://nclog.pad.baofeng.net/playfeel.php?systype=0&nettype=1&bufpercent=0&fstquittm=0&fstbuftm=0&fstplaytm=0&playtm=0&stoptms=0&stoptm=0&stopquittm=0&uid=45DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E&gcid=12A0DDCF15271C2645ECFEB895A1B75FB8F615F4&stver=5.3.4&p2pver=1.7.1&eqtype=0&vcstdd=0&sysver=11.1&decode=1&chgsc=0
+http://iphonelog.shouji.baofeng.com/logger.php?ltype=iphoneactive&uid=45DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E&ver=5.3.4&pid=iphone&gid=appstore&msg=%7B%22vendorid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22mtype%22:%22iPhone10,2%22,%22mos%22:%2211.1%22,%22itime%22:%222017-11-06%2018:23:08%22,%22hell%22:%2237%22,%22utype%22:%220%22,%22idfa%22:%225BC976EE-E986-4F7E-BE5A-B22F605859C5%22,%22unet%22:%220%22,%22token%22:%22(null)%22,%22gtcid%22:%22%22,%22forb%22:%221%22,%22userid%22:%22%22,%22loc%22:%22%22,%22applaunchtime%22:%220%22,%22from%22:%22icon%22,%22pushswitch%22:%22-1%22,%22variety%22:%22kuaigeng%22,%22count%22:%222%22,%22appusagetime%22:%22%22,%22active_id%22:%2249D94B8B-1533-456B-922B-2EB7683D55B0%22,%22ver_switch%22:%221%22%7D
+http://iphonelog.shouji.baofeng.com/logger.php?ltype=iphoneactive&uid=45DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E&ver=5.3.4&pid=iphone&gid=appstore&msg=%7B%22vendorid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22mtype%22:%22iPhone10,2%22,%22mos%22:%2211.1%22,%22itime%22:%222017-11-06%2018:25:03%22,%22hell%22:%2237%22,%22utype%22:%220%22,%22idfa%22:%225BC976EE-E986-4F7E-BE5A-B22F605859C5%22,%22unet%22:%220%22,%22token%22:%22(null)%22,%22gtcid%22:%22%22,%22forb%22:%222%22,%22userid%22:%22%22,%22loc%22:%22%22,%22applaunchtime%22:%220%22,%22from%22:%22icon%22,%22pushswitch%22:%22-1%22,%22variety%22:%22kuaigeng%22,%22count%22:%222%22,%22appusagetime%22:%22115.013%22,%22active_id%22:%2249D94B8B-1533-456B-922B-2EB7683D55B0%22,%22ver_switch%22:%221%22%7D
+http://iphonelog.shouji.baofeng.com/logger.php?ltype=iPhoneIndex&pid=iPhonemobile&uid=45DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E&gid=appstore&ver=5.3.4&msg=%7B%22vendorid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22mtype%22:%22iPhone10,2%22,%22mos%22:%2211.1%22,%22id%22:%22%22,%22aid%22:%22%22,%22pre_ilocation%22:%22jingxuan%22,%22ilocation%22:%22%E5%90%8C%E6%AD%A5%E5%88%97%E8%A1%A8%22,%22itime%22:%222017-11-06%2018:27:33%22,%22hell%22:%2237%22,%22utype%22:%220%22,%22unet%22:%220%22,%22idfa%22:%225BC976EE-E986-4F7E-BE5A-B22F605859C5%22,%22position%22:%22%22,%22sub_ilocation%22:%22zhanshide%E2%80%9Cziyuan%E2%80%9Djieyuehainengzhemetixian%EF%BC%9Fwoqunijie%EF%BC%8Cniquwomei%22,%22atype%22:%22%22,%22title%22:%22more2%22,%22user_id%22:%22%22,%22click_num%22:%220%22,%22active_id%22:%2249D94B8B-1533-456B-922B-2EB7683D55B0%22,%22ver_switch%22:%221%22,%22request_id%22:%22Nnot53irbtQFL_11003_45%22,%22card_type%22:%2215%22,%22order_id%22:%222%22,%22is_vip%22:%22%22,%22card_alginfo%22:%22rc-2cf-1model-2lr3%22,%22ref_id%22:%22%22,%22page_id%22:%22%22,%22loc_lv4%22:%22%22,%22section_id%22:%2213611%22,%22ui_type%22:%2242%22,%22aid_alginfo%22:%22%22%7D
+http://iphone.shouji.baofeng.com/iphone/album/293/9984293.json?mtype=high&ver=5.3.4&g=37&td=0&s=1dfbdfa8767eeee85ebb935086684fe27e60a821
+http://iphonelog.shouji.baofeng.com/logger.php?ltype=iphonead&pid=iphone&uid=45DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E&gid=appstore&ver=5.3.4&msg=%7B%22vendorid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22mtype%22:%22iPhone10,2%22,%22mos%22:%2211.1%22,%22unet%22:%220%22,%22type%22:%22wxxs_xqbanner%22,%22id%22:%22%22,%22title%22:%22%22,%22status%22:%22consult%22,%22errorcode%22:%22%22,%22super%22:%22%22,%22itime%22:%222017-11-06%22,%22idfa%22:%225BC976EE-E986-4F7E-BE5A-B22F605859C5%22,%22sdkcode%22:%22%22,%22reloading%22:%22%22,%22count%22:%22%22,%22xst%22:%22%22,%22pageid%22:%222%22,%22t1%22:%220.000%22,%22mid%22:%22%22,%22req_id%22:%22%22,%22etc%22:%22%22%7D
+http://web.houyi.baofeng.net/Consultation/web.php?dvc=1&ver=v5.3.4&id=wxxs_xqbanner&wh=1242_2208&jx=iPhone10,2&yyc=1&mc=NDVERTc5RTEtQjFGNy00MTdFLUFEQTMtMDJDQkQwQzNERThF&idfa=5BC976EE-E986-4F7E-BE5A-B22F605859C5&net=1&gid=appstore&os=iOS&osver=11.1&loc=&pageid=2&aid=&cardid=
+http://newapi.shouji.baofeng.com/related/album?platf=iphone&uid=45DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E&aid=9984293&mtype=high&ver=5.3.4&g=37&unet=1&operator=1&loc=&active_id=49D94B8B-1533-456B-922B-2EB7683D55B0&s=99073d599f49bd45a3d15ffc7bb65a4b597db453
+http://iphone.shouji.baofeng.com/iphone/minfo/*/293/9984293_1.json?mtype=high&ver=5.3.4&type=1&g=37&td=0&s=a51d682121e8c6aa0aa30961568ed9743b8b9c5a
+http://iphonelog.shouji.baofeng.com/logger.php?ltype=iphonevv&pid=iphone&uid=45DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E&gid=appstore&ver=5.3.4&msg=%7B%22vendorid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22mtype%22:%22iPhone10,2%22,%22mos%22:%2211.1%22,%22unet%22:%220%22,%22id%22:%22%22,%22aid%22:%229984293%22,%22atype%22:%222%22,%22vid%22:%22%22,%22wid%22:%22baofeng%22,%22pre_cid%22:%22jingxuan%22,%22cid%22:%22%E5%90%8C%E6%AD%A5%E5%88%97%E8%A1%A8%22,%22topic%22:%220%22,%22ptype%22:%220%22,%22type%22:%221%22,%22ltime%22:%220.000%22,%22date%22:%222017-11-06%2018:27:35%22,%22hell%22:%2237%22,%22style%22:%221%22,%22utype%22:%220%22,%22idfa%22:%225BC976EE-E986-4F7E-BE5A-B22F605859C5%22,%22errorcode%22:%22%22,%22cstype%22:%22%22,%22changesource%22:%22%22,%22vtype%22:%221%22,%22shortfrom%22:%22%22,%22pausetime%22:%22%22,%22format%22:%22%22,%22clarity%22:%223%22,%22datafrom%22:%220%22,%22vtitle%22:%22%22,%22sub_cid%22:%22zhanshide%E2%80%9Cziyuan%E2%80%9Djieyuehainengzhemetixian%EF%BC%9Fwoqunijie%EF%BC%8Cniquwomei%22,%22pretime%22:%220.000%22,%22parsetime%22:%220.000%22,%22loadingtime%22:%220.000%22,%22user_id%22:%22%22,%22position%22:%22%22,%22status%22:%22%22,%22active_id%22:%2249D94B8B-1533-456B-922B-2EB7683D55B0%22,%22section_id%22:%2213611%22,%22ui_type%22:%2242%22,%22card_type%22:%2215%22,%22ver_switch%22:%221%22,%22order_id%22:%222%22,%22request_id%22:%22Nnot53irbtQFL_11003_45%22,%22speed%22:%220%22,%22card_alginfo%22:%22rc-2cf-1model-2lr3%22,%22aid_alginfo%22:%22%22,%22ref_id%22:%22%22,%22page_id%22:%22%22,%22ftime%22:%220%22,%22percent%22:%220%22,%22loc_lv4%22:%22%22%7D
+http://xs.houyi.baofeng.net/config/iOSDPLConfig.xml
+http://iphonelog.shouji.baofeng.com/logger.php?ltype=iphonead&pid=iphone&uid=45DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E&gid=appstore&ver=5.3.4&msg=%7B%22vendorid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22mtype%22:%22iPhone10,2%22,%22mos%22:%2211.1%22,%22unet%22:%220%22,%22type%22:%22wx_banner2%22,%22id%22:%22%22,%22title%22:%22%22,%22status%22:%22consult%22,%22errorcode%22:%22%22,%22super%22:%22%22,%22itime%22:%222017-11-06%22,%22idfa%22:%225BC976EE-E986-4F7E-BE5A-B22F605859C5%22,%22sdkcode%22:%22%22,%22reloading%22:%22%22,%22count%22:%22%22,%22xst%22:%221%22,%22pageid%22:%222%22,%22t1%22:%220.000%22,%22mid%22:%22%22,%22req_id%22:%22%22,%22etc%22:%22%22%7D
+http://web.houyi.baofeng.net/Consultation/web.php?dvc=1&ver=v5.3.4&id=wx_banner2&wh=1242_2208&jx=iPhone10,2&yyc=1&mc=NDVERTc5RTEtQjFGNy00MTdFLUFEQTMtMDJDQkQwQzNERThF&idfa=5BC976EE-E986-4F7E-BE5A-B22F605859C5&net=1&gid=appstore&os=iOS&osver=11.1&loc=&xst=1&pageid=2&cardid=14050
+http://iphonelog.shouji.baofeng.com/logger.php?ltype=iphonead&pid=iphone&uid=45DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E&gid=appstore&ver=5.3.4&msg=%7B%22vendorid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22mtype%22:%22iPhone10,2%22,%22mos%22:%2211.1%22,%22unet%22:%220%22,%22type%22:%22wx_topshort%22,%22id%22:%22%22,%22title%22:%22%22,%22status%22:%22consult%22,%22errorcode%22:%22%22,%22super%22:%22%22,%22itime%22:%222017-11-06%22,%22idfa%22:%225BC976EE-E986-4F7E-BE5A-B22F605859C5%22,%22sdkcode%22:%22%22,%22reloading%22:%22%22,%22count%22:%22%22,%22xst%22:%22%22,%22pageid%22:%222%22,%22t1%22:%220.000%22,%22mid%22:%22%22,%22req_id%22:%22%22,%22etc%22:%22%22%7D
+http://web.houyi.baofeng.net/Consultation/web.php?dvc=1&ver=v5.3.4&id=wx_topshort&wh=1242_2208&jx=iPhone10,2&yyc=1&mc=NDVERTc5RTEtQjFGNy00MTdFLUFEQTMtMDJDQkQwQzNERThF&idfa=5BC976EE-E986-4F7E-BE5A-B22F605859C5&net=1&gid=appstore&os=iOS&osver=11.1&loc=&pageid=2&aid=9984293&cardid=14252
+http://config.inmobi.com:443
+http://app.houyi.baofeng.net/Consultation/index.php?uid=45DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E&ver=5.3.4&cid=23373085&extend=42000000&adtype=1&dvc=1&cnid=appstore&lev=1&idfa=5BC976EE-E986-4F7E-BE5A-B22F605859C5&loc=&jx=iPhone10,2&yyc=1&wh=1242_2208&net=1&brand=apple&osver=11.1
+http://web.houyi.baofeng.net/Consultation/web.php?dvc=1&ver=v5.3.4&id=wxxs_button&wh=1242_2208&jx=iPhone10,2&yyc=1&mc=NDVERTc5RTEtQjFGNy00MTdFLUFEQTMtMDJDQkQwQzNERThF&idfa=5BC976EE-E986-4F7E-BE5A-B22F605859C5&net=1&gid=appstore&os=iOS&osver=11.1&loc=
+http://storm.baofeng.net/?c=storm://13100002130470%7C%7Cpid=wireless%7C%7Cchannel=
+http://iphonelog.shouji.baofeng.com/logger.php?ltype=iphonead&pid=iphone&uid=45DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E&gid=appstore&ver=5.3.4&msg=%7B%22vendorid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22idfa%22:%225BC976EE-E986-4F7E-BE5A-B22F605859C5%22,%22mtype%22:%22iPhone10,2%22,%22mos%22:%2211.1%22,%22unet%22:%220%22,%22type%22:%22wxxs_button%22,%22id%22:%22(null)%22,%22title%22:%22%22,%22status%22:%22consult%22,%22errorcode%22:%22%22,%22itime%22:%222017-11-06%2018:27:35%22,%22t1%22:%220.000%22,%22reloading%22:%22%22,%22pageid%22:%222%22%7D
+http://co.dtech.baofeng.com/logger.php?enc=0&appkey=bfapp_iphone&ltype=pv&log=%7B%22uid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22vendorid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22idfa%22:%225BC976EE-E986-4F7E-BE5A-B22F605859C5%22,%22mac%22:%22020000000000%22,%22mtype%22:%22iPhone10,2%22,%22apns_token%22:%22%22,%22mos%22:%2211.1%22,%22unet%22:1,%22gid%22:%22appstore%22,%22userid%22:%22%22,%22itime%22:%222017-11-06%2018:27:35%22,%22ver%22:%225.3.4%22,%22value%22:%7B%22ref_id%22:%229984293%22,%22from%22:%22%22,%22ver_switch%22:%221%22,%22pv_title%22:%22play_detail%22,%22from_pre%22:%22jingxuan%22,%22showtime%22:%22%22,%22request_id%22:%22Nnot53irbtQFL_11003_45%22,%22active_id%22:%2249D94B8B-1533-456B-922B-2EB7683D55B0%22,%22page_id%22:%22149%22,%22from_sub%22:%22%22,%22loc%22:1%7D%7D
+http://houyi.logger.baofeng.com/logger.php?ltype=iphoneadaction&pid=iphone&uid=45DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E&gid=appstore&ver=5.3.4&msg=%7B%22wid%22:%22bf-union%22,%22aid%22:%229984293%22,%22vid%22:%2223373085%22,%22adid%22:%22%22,%22asid%22:%22%22,%22aspid%22:%22%22,%22mid%22:%22%22,%22ecode%22:%22%22,%22mg%22:%22%22,%22ag%22:%22%22,%22time%22:%22%22,%22type%22:%221%22,%22idfa%22:%225BC976EE-E986-4F7E-BE5A-B22F605859C5%22%7D
+http://co.dtech.baofeng.com/logger.php?enc=0&appkey=bfapp_iphone&ltype=pv&log=%7B%22uid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22vendorid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22idfa%22:%225BC976EE-E986-4F7E-BE5A-B22F605859C5%22,%22mac%22:%22020000000000%22,%22mtype%22:%22iPhone10,2%22,%22apns_token%22:%22%22,%22mos%22:%2211.1%22,%22unet%22:1,%22gid%22:%22appstore%22,%22userid%22:%22%22,%22itime%22:%222017-11-06%2018:27:36%22,%22ver%22:%225.3.4%22,%22value%22:%7B%22ref_id%22:%22%22,%22from%22:%22%22,%22ver_switch%22:%221%22,%22pv_title%22:%22jingxuan%22,%22from_pre%22:%22jingxuan%22,%22showtime%22:%224076%22,%22request_id%22:%22Nnot53irbtQFL_11003_45%22,%22active_id%22:%2249D94B8B-1533-456B-922B-2EB7683D55B0%22,%22page_id%22:%22%22,%22from_sub%22:%22%22,%22loc%22:%22%22%7D%7D
+http://houyi.logger.baofeng.com/logger.php?ltype=iphoneadaction&pid=iphone&uid=45DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E&gid=appstore&ver=5.3.4&msg=%7B%22wid%22:%22bf-union%22,%22aid%22:%229984293%22,%22vid%22:%2223373085%22,%22adid%22:%22114270,114269,114508,114847%22,%22asid%22:%22%22,%22aspid%22:%22%22,%22mid%22:%22%22,%22ecode%22:%220%22,%22mg%22:%224000004,4000017,4000019,4000020,4000072,4000143%22,%22ag%22:%224,29,101,5262%22,%22time%22:%220.169416%22,%22type%22:%222%22,%22idfa%22:%225BC976EE-E986-4F7E-BE5A-B22F605859C5%22%7D
+http://houyi.logger.baofeng.com/logger.php?ltype=iphoneadpv&pid=iphone&uid=45DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E&gid=appstore&ver=5.3.4&msg=%7B%22wid%22:%22bf-union%22,%22aid%22:%229984293%22,%22vid%22:%2223373085%22,%22adid%22:%22114270%22,%22asid%22:%221%22,%22aspid%22:%221%22,%22mid%22:%22759346%22,%22ptime%22:%22%22,%22ecode%22:%22%22,%22type%22:%221%22,%22idfa%22:%225BC976EE-E986-4F7E-BE5A-B22F605859C5%22,%22req_id%22:%22%22,%22etc%22:%22%22%7D
+http://p2pmid.baofeng.com/171011/20171011032744845.mp4
+http://iphonelog.shouji.baofeng.com/logger.php?ltype=iphonevv&pid=iphone&uid=45DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E&gid=appstore&ver=5.3.4&msg=%7B%22vendorid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22mtype%22:%22iPhone10,2%22,%22mos%22:%2211.1%22,%22unet%22:%220%22,%22id%22:%22%22,%22aid%22:%229984293%22,%22atype%22:%222%22,%22vid%22:%2223373085%22,%22wid%22:%22baofeng%22,%22pre_cid%22:%22jingxuan%22,%22cid%22:%22%E5%90%8C%E6%AD%A5%E5%88%97%E8%A1%A8%22,%22topic%22:%220%22,%22ptype%22:%220%22,%22type%22:%2299%22,%22ltime%22:%220.000%22,%22date%22:%222017-11-06%2018:27:36%22,%22hell%22:%2237%22,%22style%22:%221%22,%22utype%22:%220%22,%22idfa%22:%225BC976EE-E986-4F7E-BE5A-B22F605859C5%22,%22errorcode%22:%22%22,%22cstype%22:%221%22,%22changesource%22:%22%22,%22vtype%22:%221%22,%22shortfrom%22:%22%22,%22pausetime%22:%22%22,%22format%22:%22%22,%22clarity%22:%223%22,%22datafrom%22:%220%22,%22vtitle%22:%22%22,%22sub_cid%22:%22zhanshide%E2%80%9Cziyuan%E2%80%9Djieyuehainengzhemetixian%EF%BC%9Fwoqunijie%EF%BC%8Cniquwomei%22,%22pretime%22:%220.602%22,%22parsetime%22:%220.000%22,%22loadingtime%22:%220.000%22,%22user_id%22:%22%22,%22position%22:%22%22,%22status%22:%22%22,%22active_id%22:%2249D94B8B-1533-456B-922B-2EB7683D55B0%22,%22section_id%22:%2213611%22,%22ui_type%22:%2242%22,%22card_type%22:%2215%22,%22ver_switch%22:%221%22,%22order_id%22:%222%22,%22request_id%22:%22Nnot53irbtQFL_11003_45%22,%22speed%22:%220%22,%22card_alginfo%22:%22rc-2cf-1model-2lr3%22,%22aid_alginfo%22:%22%22,%22ref_id%22:%22%22,%22page_id%22:%22%22,%22ftime%22:%220%22,%22percent%22:%220%22,%22loc_lv4%22:%22%22%7D
+http://iphonelog.shouji.baofeng.com/logger.php?ltype=iphonead&pid=iphone&uid=45DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E&gid=appstore&ver=5.3.4&msg=%7B%22vendorid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22mtype%22:%22iPhone10,2%22,%22mos%22:%2211.1%22,%22unet%22:%220%22,%22type%22:%22wxxs_xqbanner%22,%22id%22:%22%22,%22title%22:%22%22,%22status%22:%22consult%22,%22errorcode%22:%222%22,%22super%22:%22%22,%22itime%22:%222017-11-06%22,%22idfa%22:%225BC976EE-E986-4F7E-BE5A-B22F605859C5%22,%22sdkcode%22:%22%22,%22reloading%22:%22%22,%22count%22:%22%22,%22xst%22:%22%22,%22pageid%22:%222%22,%22t1%22:%221.110%22,%22mid%22:%22%22,%22req_id%22:%22%22,%22etc%22:%22%22%7D
+http://iphonelog.shouji.baofeng.com/logger.php?ltype=iphonead&pid=iphone&uid=45DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E&gid=appstore&ver=5.3.4&msg=%7B%22vendorid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22mtype%22:%22iPhone10,2%22,%22mos%22:%2211.1%22,%22unet%22:%220%22,%22type%22:%22wx_banner2%22,%22id%22:%22%22,%22title%22:%22%22,%22status%22:%22consult%22,%22errorcode%22:%222%22,%22super%22:%22%22,%22itime%22:%222017-11-06%22,%22idfa%22:%225BC976EE-E986-4F7E-BE5A-B22F605859C5%22,%22sdkcode%22:%22%22,%22reloading%22:%22%22,%22count%22:%22%22,%22xst%22:%221%22,%22pageid%22:%222%22,%22t1%22:%221.019%22,%22mid%22:%22%22,%22req_id%22:%22%22,%22etc%22:%22%22%7D
+http://iphonelog.shouji.baofeng.com/logger.php?ltype=iphonead&pid=iphone&uid=45DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E&gid=appstore&ver=5.3.4&msg=%7B%22vendorid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22mtype%22:%22iPhone10,2%22,%22mos%22:%2211.1%22,%22unet%22:%220%22,%22type%22:%22wx_2_banner2%22,%22id%22:%22%22,%22title%22:%22%22,%22status%22:%22consult%22,%22errorcode%22:%22%22,%22super%22:%22%22,%22itime%22:%222017-11-06%22,%22idfa%22:%225BC976EE-E986-4F7E-BE5A-B22F605859C5%22,%22sdkcode%22:%22%22,%22reloading%22:%22%22,%22count%22:%22%22,%22xst%22:%221%22,%22pageid%22:%222%22,%22t1%22:%220.000%22,%22mid%22:%22%22,%22req_id%22:%22%22,%22etc%22:%22%22%7D
+http://web.houyi.baofeng.net/Consultation/web.php?dvc=1&ver=v5.3.4&id=wx_2_banner2&wh=1242_2208&jx=iPhone10,2&yyc=1&mc=NDVERTc5RTEtQjFGNy00MTdFLUFEQTMtMDJDQkQwQzNERThF&idfa=5BC976EE-E986-4F7E-BE5A-B22F605859C5&net=1&gid=appstore&os=iOS&osver=11.1&loc=&xst=1&pageid=2&cardid=14050
+http://p2pmid.baofeng.com/p2pmidnew/dsp_logo/161011/20161011060420325.png
+http://iphonelog.shouji.baofeng.com/logger.php?ltype=iphonead&pid=iphone&uid=45DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E&gid=appstore&ver=5.3.4&msg=%7B%22vendorid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22mtype%22:%22iPhone10,2%22,%22mos%22:%2211.1%22,%22unet%22:%220%22,%22type%22:%22wx_topshort%22,%22id%22:%22%22,%22title%22:%22%22,%22status%22:%22consult%22,%22errorcode%22:%222%22,%22super%22:%22%22,%22itime%22:%222017-11-06%22,%22idfa%22:%225BC976EE-E986-4F7E-BE5A-B22F605859C5%22,%22sdkcode%22:%22%22,%22reloading%22:%22%22,%22count%22:%22%22,%22xst%22:%22%22,%22pageid%22:%222%22,%22t1%22:%221.036%22,%22mid%22:%22%22,%22req_id%22:%22%22,%22etc%22:%22%22%7D
+http://iphonelog.shouji.baofeng.com/logger.php?ltype=iphonead&pid=iphone&uid=45DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E&gid=appstore&ver=5.3.4&msg=%7B%22vendorid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22idfa%22:%225BC976EE-E986-4F7E-BE5A-B22F605859C5%22,%22mtype%22:%22iPhone10,2%22,%22mos%22:%2211.1%22,%22unet%22:%220%22,%22type%22:%22wxxs_button%22,%22id%22:%22(null)%22,%22title%22:%22%22,%22status%22:%22consult%22,%22errorcode%22:%222%22,%22itime%22:%222017-11-06%2018:27:36%22,%22t1%22:%221.032%22,%22reloading%22:%22%22,%22pageid%22:%222%22%7D
+http://houyi.logger.baofeng.com/logger.php?ltype=iphoneadpv&pid=iphone&uid=45DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E&gid=appstore&ver=5.3.4&msg=%7B%22wid%22:%22bf-union%22,%22aid%22:%229984293%22,%22vid%22:%2223373085%22,%22adid%22:%22114270%22,%22asid%22:%221%22,%22aspid%22:%221%22,%22mid%22:%22759346%22,%22ptime%22:%221%22,%22ecode%22:%2214%22,%22type%22:%222%22,%22idfa%22:%225BC976EE-E986-4F7E-BE5A-B22F605859C5%22,%22req_id%22:%22%22,%22etc%22:%22%22%7D
+http://iphonelog.shouji.baofeng.com/logger.php?ltype=iphonead&pid=iphone&uid=45DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E&gid=appstore&ver=5.3.4&msg=%7B%22vendorid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22mtype%22:%22iPhone10,2%22,%22mos%22:%2211.1%22,%22unet%22:%220%22,%22type%22:%22wx_2_banner2%22,%22id%22:%22%22,%22title%22:%22%22,%22status%22:%22consult%22,%22errorcode%22:%222%22,%22super%22:%22%22,%22itime%22:%222017-11-06%22,%22idfa%22:%225BC976EE-E986-4F7E-BE5A-B22F605859C5%22,%22sdkcode%22:%22%22,%22reloading%22:%22%22,%22count%22:%22%22,%22xst%22:%221%22,%22pageid%22:%222%22,%22t1%22:%221.667%22,%22mid%22:%22%22,%22req_id%22:%22%22,%22etc%22:%22%22%7D
+http://app.houyi.baofeng.net/Counting/index.php?adid=114270&dpl=0&adpid=4&uid=45DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E&ver=5.3.4&type=A&tt=1509964055.4573&ctt=4&adtype=1&c=hy59fed485805306.19161437&mid=47712&dsp=4&ip=112.233.6.39&dvc=1&idfa=5BC976EE-E986-4F7E-BE5A-B22F605859C5
+http://iphonelog.shouji.baofeng.com/logger.php?ltype=iphonead&pid=iphone&uid=45DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E&gid=appstore&ver=5.3.4&msg=%7B%22vendorid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22mtype%22:%22iPhone10,2%22,%22mos%22:%2211.1%22,%22unet%22:%220%22,%22type%22:%22wxxs_loading%22,%22id%22:%22%22,%22title%22:%22%22,%22status%22:%22pre_consult%22,%22errorcode%22:%22%22,%22super%22:%22%22,%22itime%22:%222017-11-06%22,%22idfa%22:%225BC976EE-E986-4F7E-BE5A-B22F605859C5%22,%22sdkcode%22:%22%22,%22reloading%22:%22%22,%22count%22:%22%22,%22xst%22:%22%22,%22pageid%22:%22%22,%22t1%22:%220.000%22,%22mid%22:%22%22,%22req_id%22:%22%22,%22etc%22:%22%22%7D
+http://log.kuaigeng.com/collect/event/
+http://iphonelog.shouji.baofeng.com/logger.php?ltype=iphonead&pid=iphone&uid=45DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E&gid=appstore&ver=5.3.4&msg=%7B%22vendorid%22:%2245DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E%22,%22mtype%22:%22iPhone10,2%22,%22mos%22:%2211.1%22,%22unet%22:%220%22,%22type%22:%22wxxs_loading%22,%22id%22:%22%22,%22title%22:%22%22,%22status%22:%22pre_fail%22,%22errorcode%22:%2260%22,%22super%22:%22%22,%22itime%22:%222017-11-06%22,%22idfa%22:%225BC976EE-E986-4F7E-BE5A-B22F605859C5%22,%22sdkcode%22:%22%22,%22reloading%22:%22%22,%22count%22:%22%22,%22xst%22:%22%22,%22pageid%22:%22%22,%22t1%22:%220.000%22,%22mid%22:%22%22,%22req_id%22:%22%22,%22etc%22:%22%22%7D
+
+http://app.houyi.baofeng.net/Counting/index.php?adid=114269&dpl=0&adpid=4&uid=45DE79E1-B1F7-417E-ADA3-02CBD0C3DE8E&ver=5.3.4&type=A&tt=1509964055.4573&ctt=4&adtype=1&c=hy59fed485805306.19161437&mid=47712&dsp=4&ip=112.233.6.39&dvc=1&idfa=5BC976EE-E986-4F7E-BE5A-B22F605859C5
+http://s3m.mediav.com:443
+
+http://eventlog.hd.baofeng.com/logger.php?ltype=bfevent&uid=780fcb1c36a6886c50753e6e45f803ebe2ca8e08&pid=hdbf&userid&chid=www.baofeng.com&cid=1509963389185o28fq6913db5&bid=21&fid=1358&channel=%2Fplay%2F364%2Fplay-792864.html&msg=%7B%22category%22%3A%22comstate%22%2C%22comstate%22%3A1%2C%22browsertype%22%3A%221%22%2C%22browser%22%3A%22WEBKIT%22%2C%22sid%22%3A%221509963389186%22%2C%22refer%22%3A%22http%3A%2F%2Fwww.baofeng.com%2F%22%7D&t=1509963424697
+
+http://log.houyi.baofeng.net/logger.php?ltype=wadaction&msg={%22id%22:%22undefined%22,%22adpid%22:%222%22}
+http://pvlog.hd.baofeng.com/logger.php?ltype=bfpv&uid=780fcb1c36a6886c50753e6e45f803ebe2ca8e08&pid=hdbf&userid&chid=www.baofeng.com&cid=1509963389185o28fq6913db5&bid=21&fid=1358&channel=%2Fplay%2F364%2Fplay-792864.html&msg=%7B%22browsertype%22%3A%221%22%2C%22browser%22%3A%22WEBKIT%22%2C%22sid%22%3A%221509963389186%22%2C%22refer%22%3A%22http%3A%2F%2Fwww.baofeng.com%2F%22%2C%22firsttime%22%3A%2218%3A17%3A3%22%7D&t=1509963423566
+
+http://actlog.dftoutiao.com/getdatafirst/pcdata?param=www.baidu.com%0915097237834750709%09toutiao%09DFTT%09yule%09https://www.baidu.com/link%09mini.eastday.com/a/171104093601010.html%09null%09null%09null%090%09https://www.baidu.com/link%090.5.1%09other%09chrome55.0.2883.87%09-1&jsonpcallback=jQuery1830029054712138501193_1509963103234&_=1509963108469
+
+http://pcsoftwords.dftoutiao.com/dfpcitv/pcitv?type=toutiao&qid=www.baidu.com&uid=15097237834750709&readhistory=170912181251828,171104093601010,171104093601010&pageposition=ny&os=windows64&newsitetype=ttz&newsuid=15097237834750709&newstype=yule&thisurl=http://mini.eastday.com/a/171104093601010.html&jsonpcallback=jQuery1830029054712138501193_1509963103234&_=1509963104225
+http://pclog.dftoutiao.com/getpcdata/data?param=www.baidu.com%0915097237834750709%09toutiao%09DFTT%09yule%09https%3A%2F%2Fwww.baidu.com%2Flink%09http%3A%2F%2Fmini.eastday.com%2Fa%2F171104093601010.html%09null%09null%09null%090%09https%3A%2F%2Fwww.baidu.com%2Flink%090.5.1%09other%09chrome55.0.2883.87%09-1%09null%09null%09null&jsonpcallback=jQuery1830029054712138501193_1509963103232&_=1509963103241
+http://tt123.eastday.com/avnbsnwbrycx.js
+http://tt321.eastday.com/bmyjrjqvhh?tqu=RRQ&iup=YQQ&pu=KTQVVXSY&xfg=7JJFzT_zSczScC8D8zx40IJ30Ozx2ECzSc0zScRXRRQUQZTWQRQRQzx7JCB&pdu=Q&qjbe=RRRQQS&pue=Q&pfy=eqjixmlpq&bee=SVTZNVZSW&bmd=SVWQNRTZQ&mzf=R&pmu=R&be=SVUZNZYZ&boe=SVTZNZXR&fbd=RVQZZWTRQUURV&oqo=rqcyY&mdu=S&bue=yRNyR&po=S&n10=izb22hue01i9sxj38fr
+
+
+http://mini.eastday.com/iframe/gg/gg_left_1.html?id=cxpdtzgmwaedgm&type=bdf&tc=1509963105658
+https://imgsreview.dftoutiao.com/dsp/images/c51ac6fa-d10e-4a9b-89b2-6479b810d7e4.jpg
+http://tt123.eastday.com/lpjnmjnpdmhhmyojn.js
+http://tt321.eastday.com/cueluvczyi?tqu=YQ&iup=TTQ&pu=KTQYYRTR&xfg=7JJFzT_zSczScN8DM4Dzx40IJ30Ozx2ECzSc0zScRXQZRRRVSRQQTXRzx7JCB&fbd=RVQZXSTXYVQUQ&po=S&qjbe=RRRQQS&mdu=S&pmu=S&pue=Q&pfy=eqjixmlpq&mzf=R
+http://xinwen.eastday.com/iframe/gg/gg_dlleft.html?id=mm_118281833_16154146_105970993&type=afp
+http://tt321.eastday.com/gorbwzpmt?tqu=RTT&iup=XVQ&pu=KTQYYQZS&xfg=7JJFzT_zSczScN8DM4Dzx40IJ30Ozx2ECzSc0zScRXQZRRRVSRQQTXRzx7JCB&pfy=eqjixmlpq&mdu=S&mzf=R&pue=Q&po=S&pmu=U&qjbe=RRRQQS&fbd=RVQZXSTXYVQUQ&g6=xlv0z896kdy4tzf47vi
+http://1.1010pic.com/lpjnmjnpdmhhmyojn.js
+http://cpro.baidu.cn/cpro/ui/f.js
+http://2.1010pic.com/axgyf?zwa=ZZ&oav=a-X&va=RY_d.ba-&dlm=EQQM6_e6Zj6ZjTTT64W7FUF7K5C7KVF649LJ6ZjC7K4VF4YaccZcZ&wphk=YYYXXZ&sja=Z&sfl=Y&lhj=Y.XdaZcbaa.ba&vsa=d&vu=Z&vle=lxqp4tswx&vak=X&gr9=0tz7r0tnwe3rbt0ggb9&jg6=7o16xzixkd43m2yy14i
+http://zyz.91friend.com/lpjnmjnpdmhhmyojn.js
+http://zyz1.91friend.com/ryorsajua?ros=rpn&gsn=mpkr&ns=emtmqqsl&vde=Udd.MnuMmzMmzOY-TMKcV_NMKP_MmzQ.--YMmzOY-TMmzcMmzOY-TKpltQqrsNklkmhacTMKUdZYMnz.-cMnxttMmqfdMnxo&vse=NO-edMnuOYN_X&ndw=1D65K98CD&kxd=l&nm=m&kbs=m&nks=l&ohzc=lllkkm&nsc=l&dzb=lpktqstnrlkoo&ib10=glffjatncomfcwxt7qfr&4f7=ry6m7y6ut5asow5t57b9&m06=gf0k4vnqe2vyj5rk9&3t2=yqob6cg49swf1lwhfr
+http://xc.mydrivers.com/smu1/o.js
+http://bu1.duba.com/lpjnmjnpdmhhmyojn.js
+http://bu2.duba.com/qosnhaxj?ros=ST&gsn=NPSM&ns=GPNNVSON&vde=3FFBvPWvO-vO-Jyvt8KzD4H0DEvtyA8vO-E8GNvO-5vt3F87&nm=O&vse=3FFBvPWvO-vO-Jyvt8KzD4H0DEvtyA8vO-E8GNvO-3vt3F87vOP0xRRwwNPUyxwQMz8GPNNVSONDRNPNURONQRMQSMTQMMMMFNRMVSUVPTOMRS(vOR_TvORWTvORVNvOR_SvORUWvORUMvOR_UvORXRvORUQvOR_UvORW_vORW-vOROYvOR_TvORWTvORVNvOR_SvORUWvORUMvOR_SvORVSvORXMvOR_VvORVTvORXXvOROYvOR_SvORUVvORUXvOR_SvORVYvORXWvOROY4i3A90vOROYvOR_UvORUXvORXVvOR_SvORV_vORVYvOROYvOR_RvORW_vORUVvOR_RvORUZvORVPvOROYvOR_TvORWNvORWYvOR_QvORXXvORXSvOROYvOR_UvORXZvORW-vOR_QvORXXvORXSvOROYvOR_UvORW-vORUQvOR_SvORXRvORUXvOROYvOR_VvORWVvORXNvOR_RvORUWvORWUvOR_TvORWUvORUXvOR_RvORXWvORU-vOROYvOR_VvORWVvORXNvOR_RvORUWvORWUvOR_QvORXUvORUXvOR_UvORXZvORXZvOROYvOR_VvORWVvORXNvOR_RvORUWvORWUvOR_TvORXOvORX_vOR_TvORUNvORXRvOROYvOR_QvORXUvORUTvOR_UvORUPvORXZvOR_VvORWVvORXNvOR_RvORUWvORWUtvOR_RvORX-vORWXvOR_TvORWTvORVNvOR_SvORUWvORUMtvOR_RvORU_vORV-vOR_VvORWVvORXNvOR_RvORUWvORWUvOR_QvORXVvORUXvOR_RvORW_vORXS)&kbs=O&ohzc=NNNMMO&kxd=N&nks=N&dzb=NRMVSUVPTQMQN&ndw=amfetihlm&nsc=P&n10=mw48vij239g36beasjor&a9=ejbjtfbxkshkopm5z5mi&a6=gtxjsszd6xymz5xw29
+http://ildie.gundam-online.com/pic/200/8210.gif
+http://app.jgyee.com/dc/
+http://cdn.staticfile.org/jquery/2.1.4/jquery.min.js id97.com
+g.aligames.com游戏中心
+api.open.uc.cn推荐阅读
+<!--固定-->
+<script src='http://e.gitpw.com/294045/1/1.xhtml?'></script>
+<!--低飘ty-->
+<script src='http://m.gitpw.com/23331.html?'></script>  
+http://m.verpt.com/uu.php?s=MTg5MjIyfDIzMzMxfDI5NDA0NHwyfDIzNDY1fDY1MTd8MTEyLjI1MS45NS45Mg==;6103c5eee324386d7c6fb5d1eab0ec05;1&clicks=1&isgo=1&isgoto=0
+http://gfh.ahfzly.com/MjExMQ21112111/0705/1499228137.gif
+http://gfh.ahfzly.com/MjExMQ21112111/0705/1499228137.gif
+http://ov.qdttzk.com/MjExMQ21112111/1024/1508809458.jpg
+http://quan.s3d4.cn/content/ad.jpg
+https://imgaliyun.da.mgtv.com/mediafiles/wiad_creative/1008/14955917458215.jpg
+http://67.229.224.28:8008/TV/c.js
+https://promotion.aliyun.com/promotion/adv/getAliyunAdv.htm 
+http://cl.xzqxzs.com/download/PPTV%E8%81%9A%E5%8A%9B_51@17298.exe
+http://dl.xzqxzs.com/download/PPTV%E8%81%9A%E5%8A%9B_51@17298.exe
+http://bd3.chuiyue.com/mqkonkoqenepgdzkon.js
+http://bd4.chuiyue.com/ddcvambf?dae=bca&sez=gjf&ze=Xcecebia&hpq=KWWSCdkCcpCcpZZZCAFKXL-XHCAFRPCcpKMCcpcdfjfCcpSOD-HUBaBhaCAKWPO&zwe=c&pln=bfaghafahaicd&wjp=b&zy=c&zeo=a&atlo=bbbaac&wne=c&zpi=r3wvAzy23&zv3=ibe19vg52997knvcxr&0v4=8i1ue9ip8h1ca4z33di
+https://jsadsdisplay.cn-beijing.log.aliyuncs.com/logstores/display/track.gif?APIVersion=0.6.0&adid=226&uid=211&plan_id=55&idea_id=226&position_id=2&city_code=360100&from=haoz1t1p1
+http://b17.xiumu.cn/fqdq46gdpu.js
+http://toutiao.2haha.com/re.html#url=vipshop://showChannel?channelID=%23top-beauty&channelMenu=0&tra_from=tra%3Aq5ndxji7%3A10c883g7%3Am31l6j78%3A6bzu5uc8%3A%3A723583e1%3A%3A&f=dx
+http://173.208.177.227/6/605.gif
+http://pic.thzhd.wang/forum/201710/03/165005ayyrcuc03pc3pbc3.jpg
+http://www.thztv.net/6/luoliao.gif
+https://img.alicdn.com/imgextra/i2/3294826613/TB2iyhNdxolyKJjSZPfXXawNpXa_!!3294826613.gif
+http://pic.pic-img.com/pic/upload/vod/2017-09-26/201709261506409739.gif
+http://ww1.sinaimg.cn/large/006CZIQPgw1faa7o4cpqyg30qo01o43e.gif
+http://c.mnjkw.cn/mqkonkoqenepgdzkon.js
+http://bax.xiawu.com/lpjnmjnpdmhhmyojn.js
+http://bay.xiawu.com/narksiujx?olp=WRR&dpk=TVR&kp=LTZX___Y&sab=8KKG0U-0Td0TdNNN0yO91NL0y3FD0TdK17JJ0TdMFC5O0TW.-0TWaR0TWaR0TWd.0TWa-0TW.d&awy=SWRZSUZWRVRTZ&khp=T&kj=T&hua=S&hyp=T&kpz=R&lewz=SSSRRT&kat=frkjynmqr&6o7=1bg8v
+http://bax.xiawu.com/tps/noexpire/img/4.0.0/pc_ads_bear.1x.png
+http://js.gewuwen.com/2e4d96dca598a574cd0d.js
+
+http://json.gewuwen.com/djjkepet?byc=mgg&qcx=imh&xc=ainlppko&fno=Q..YIjqIivIivcccIGfeR.bIGLXVIivJ_.RLUNIivighnhgIivgnioikilIGQ.VU&xuc=l&yrjm=hhhggi&uhn=h&xw=i&njl=hlgogpghnmjip&xcm=g&xng=x921G5489&ulc=i&nt5=69qj&d35=hncjn&sf5=zw1fd&ad10=lrn2&ek1=7jy9r
+http://idm-su.baidu.com/su.png?yjs_id=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV09XNjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS82MS4wLjMxNjMuMTAwIFNhZmFyaS81MzcuMzZ8d3d3Lnp5aXR2LmNvbXwxNTA4MDkwMTc3NDM1fGh0dHBzOi8vd3d3LmJhaWR1LmNvbS9saW5rP3VybD1iWWNHb1NpMGVrM1JBampYclg1U1VVYnM4Nm9zSDIxeVRLdjZleDBESk1WN1JidXJ3ZnEtcFJxd2RqYVZOakFSTDFRWGc3aFh0NG9CNkNld0puZy1IYSZ3ZD0mZXFpZD05ZTIwYzk4NzAwMDA0ZWVkMDAwMDAwMDI1OWUzYTEyNQ
+
+http://l.mnjkw.cn/cxeiltoa?olp=TRU&dpk=NOSP&kp=GOVNPTNS&sab=3FFBvPWvO-vO-8vt89Ivty9vO-B3AFAvO-K4E3GE30K492vO-TVSVPUvt3F87&kat=amfetihlm&hua=N&hyp=O&khp=O&kpz=M&kj=O&lewz=NNNMMN&awy=NRMSSMMNQMTRU&t8=id7ppn7e0oqwz2rzfr
+http://cm.l.qq.com/?dspid=10045&dspuid=0&gettuid=1
+https://tw.find2c.com/wap.php?m=reg&a=reg&invite_mobile=1111&platform=2
+http://img1.xydfn.com/MTk19/11712/1/11712_5.jpeg
+http://zxyjhx.gszy.edu.cn/UpFile/%2ffile/20170926/20170926004467916791.html?user=111
+http://bt.xitongmonitor.com/dspimg/20171009/j7r7i5NybA.gif
+http://j.biquge520.cc/o.php?u=393|4|1
+http://s.zlongad.com/s/186dc
+https://www.123danmei.net/dcr/ad/ad_duilian.js
+http://abc.88shu.cn/music.php?id=584
+http://201792617.mbai.cn/ssp.php?id=1537&refer=http://www.733dm.net/mh/26529/&p=aj0wJm09NTMmZj0yNS4wLjAmcj1odHRwJTNBJTJGJTJGd3d3LjczM2RtLm5ldCUyRiZrPSZ1PWh0dHAlM0ElMkYlMkZ3d3cuNzMzZG0ubmV0JTJGbWglMkYyNjUyOSUyRiZyZXM9MTI4MHg2NzEmdD0lRTclQUMlQUMlRTQlQjglODAlRTYlQUMlQTElRTclOUElODRHYWwlRTYlQkMlQUIlRTclOTQlQkJfJUU3JUFDJUFDJUU0JUI4JTgwJUU2JUFDJUExJUU3JTlBJTg0R2FsJUU2JUJDJUFCJUU3JTk0JUJCJUU1JTg1JUE4JUU5JTlCJTg2JUU1JTg1JThEJUU4JUI0JUI5JUU5JTk4JTg1JUU4JUFGJUJCXzczMyVFNSU4QSVBOCVFNiVCQyVBQiVFNyVCRCU5MSZsPXpoLUNOJmM9MSZoPTIyNzkmc2U9MQ==&l=d3d3LjczM2RtLm5ldA==
+http://201792617.88shu.cn/news/37.html?refer=http://www.733dm.net/mh/26529/&time=1506417634461&37
+http://p1.qinsx.cn/20170809/598ad612840f4.gif
+http://cd.bendibao.com/images/close.gif
+http://d.s11.cn/mqkonkoqenepgdzkon.js
+http://j.s11.cn/apllly?yvz=B2&nzu=982&uz=w444B693&ckl=jvvrb5Cb4Hb4Hpeb.dgpfkdcqb.eqob4Hvtchhkeb4H4238A53b4H6B592b.ujvo&uzj=2&ut=4&urz=4&rek=3&ukd=JVON.RQUV&kgi=3728B5635A928&riz=4&vogj=333224&410=tgdqlx4sf7f76kmrhpvi&i1=3nc2b9h5v5unubx1or&p6=zlcyau8jjxonuzestt9&s1=34m3oxjivsy6szwipb9&v2=a5ks5dcbl35gvgkqpvi
+
+
+A Parser-blocking, cross-origin script, http://j.biquge520.cc/o.php?u=393|4|1, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+(anonymous)
+2(unknown) A Parser-blocking, cross-origin script, http://js.bjwwfx001.org.cn:8087/fv-3858-7.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity. See https://www.chromestatus.com/feature/5718547946799104 fo
+http://js74.fate-xy.com/mh/c-3631-23.js
+http://s1.hnhbyxdq.com:8081/f99fc02f/mhjy/640200/470.gif
+https://1.qwedcfv.com/f99fc02f/mhjy/640200/469.gif
+https://a.qhwch.com/mqkonkoqenepgdzkon.js
+https://api.rideraid.net/mh/c-204-25.js
+https://wapssl.ff113300.com/?id=5877
+https://b.qhwch.com/dsxf?byc=ihh&qcx=ijlk&xc=bkhnlpmi&fno=RaaZ.JkrJjwJjwWJHWOSabVbJHMYWJjwSaOWJjwihhnmJHRaWV&xw=j&xuc=j&xng=yA32H659A&ulc=j&uhn=i&njl=imhnlippjilmn&xcm=h&jlin=j&yrjm=iiihhi&c10=cpsy2mtk9py5j2u766r&y1=ard4n02q9oe4gdmfgvi&t2=x4a8hpvqf4vsvdholxr&15=gx1uzs3vno1hgaxlxr
+\'http://vip.jindu179.com/js/cpv_fm_r.js\'></script>>');
+<script type="text/javascript" src="//ab.dydab.com/ab/single/nonfloat/156.js?imgWidth=100%"></script>
+<img style="display:block;margin:auto;width:100%" src="http://img.dydab.com///projectA/1300-100.gif" alt="">
+http://p2.qinsx.cn/20170809/598ad61abde03.gif
+https://s.xinghao89.com/y.js?pid=11608
+http://rwq.youle55.com/r/er_19226_8548.js
+https://tkmdng.cn/m-1026-1512341
+https://www.8ao8ao.com/smu0/o.js
+https://sj.adunite.com/u3087853-1-2-1026.js
+http://eng.liveapp.cn/group3/show/65/BA/06a03632-4145-4094-8d4f-58f4ef324629.htm
+http://open.liveapp.cn/group3/show/6C/E3/0a2f9c2e-26a6-46ad-8eb3-0272390962f7.html?from=groupmessage
+http://mp.weixinbridge.com/mp/wapredirect?url=http://m103076.mustfollow.axfree.mvote.net/wxvote/337f4c95-d18e-7e43-9eb7-c4e38bbc7d92.html
+https://mp.weixinbridge.com/mp/wapredirect?url=www.360clg.cn/index.php/article/13684.html?sid=72420&m_sid=om83pP&skey=OP5Fntouec
+https://mp.weixinbridge.com/mp/wapredirect?url=www.360clg.cn/index.php/article/13684.html?sid=40910&m_sid=7aRCWk&skey=OlX6OjJRER
+https://mp.weixinbridge.com/mp/wapredirect?url=www.360clg.cn/index.php/article/13684.html?sid=136408&m_sid=fGaRHt&skey=L0aiaefZvI
+https://mp.weixinbridge.com/mp/wapredirect?url=www.360clg.cn/index.php/article/13684.html?sid=180441&m_sid=wP8w7z&skey=L0rrKuYhMw
+https://mp.weixinbridge.com/mp/wapredirect?url=www.360clg.cn/index.php/article/13684.html?sid=29921&m_sid=TjP5Ia&skey=PIfpI8fDRl
+https://mp.weixinbridge.com/mp/wapredirect?url=www.360clg.cn/index.php/article/13684.html?sid=39762&m_sid=rzocGM&skey=dHP283oM6U
+https://mp.weixinbridge.com/mp/wapredirect?url=www.360clg.cn/index.php/article/13684.html?sid=177440&m_sid=pEFf7n&skey=6CPzjyLoqu
+https://mp.weixinbridge.com/mp/wapredirect?url=www.360clg.cn/index.php/article/13684.html?sid=3847&m_sid=4gOnJf&skey=nKUZJLz4Ls
+https://mp.weixinbridge.com/mp/wapredirect?url=www.360clg.cn/index.php/article/13684.html?sid=199944&m_sid=tzZYuq&skey=RLCGq39I4v
+https://mp.weixinbridge.com/mp/wapredirect?url=www.yiqixiu.com/72760259?id=48111&material_id=Y0xK0s&mid=cGtBFLFIko
+https://mp.weixinbridge.com/mp/wapredirect?url=www.yiqixiu.com/72760259?id=61287&material_id=cIwvTY&mid=venNOuAnMn
+https://mp.weixinbridge.com/mp/wapredirect?url=www.cubcc.com/v-U8019CT3A7?id=192416&material_id=pSPd4f&authkey=Rp3fpJk1Hp
+https://mp.weixinbridge.com/mp/wapredirect?url=www.yiqixiu.com/72760259?id=20525&material_id=xQKhGq&mid=xQKhGqBfHD
+https://mp.weixinbridge.com/mp/wapredirect?url=www.cubcc.com/v-U8019CT3A7?id=156648&material_id=JHVU20&authkey=pxmFyr3nbI
+https://mp.weixinbridge.com/mp/wapredirect?url=www.yiqixiu.com/72760259?id=44015&material_id=dCvgAx&mid=6uUhEbpY50
+https://mp.weixinbridge.com/mp/wapredirect?url=www.360clg.cn/index.php/article/13684.html?sid=180638&m_sid=8uZS4P&skey=DUHa2TNNAj
+https://mp.weixinbridge.com/mp/wapredirect?url=www.360clg.cn/index.php/article/13684.html?sid=122422&m_sid=yao7GP&skey=aRZXa2D6cP
+https://mp.weixinbridge.com/mp/wapredirect?url=www.yiqixiu.com/72760259?id=146083&material_id=RyJqqK&mid=4j1mZwlP61
+https://mp.weixinbridge.com/mp/wapredirect?url=www.yiqixiu.com/72760259?id=1154&material_id=0ZIHUk&mid=1vqZVplL3V
+
+http://ad.funshion.org.cn/c/index.html?s=154&w=300&h=250&pvid=00001505978790106_852985324
+http://www.funshion.net.cn/ad?s=nd&sid=40126&w=300&h=250&r=852985324&pvid=00001505978790106_852985324&pvr=http%3A%2F%2Fwww.xilu.com%2Findex.html
+http://pb.funshion.net.cn/other?of="+ srtag + "&sid="+ sr_sid + "&pos=1&e=" + encodeURIComponent(e.toString());
+http://www.funshion.net.cn/img/336_280/www.vf360.jpg
+http://aaa.pyzxsl.com/ngame/icon/gg03.png
+http://pic.lehuohh.com/a/2017-09-21/15059849308435.gif
+http://s.jiaheyonggu.com/v.php?channel=6152
+http://t1.wshufa.com/mqkonkoqenepgdzkon.js
+http://vip.mall044.com/sn_a.php?id=1192
+http://a.53yao.com/mhwpwqgepkon.js
+http://im.lokoo.com.cn/2017-07-04/IMG__201707041646552700.gif
+http://pic.aihaogou.com.cn/a/close_js1.png
+https://dm77.xftnam.com/s2.php?id=2783
+https://s.sufficient.cn/11/14755.js?ssid=_m4yl5te6krhz7wm5qav5nrk9
+https://s.sufficient.cn/stat-qq.html?Hxu=eNo9UO2OpCAQfJdNpn8aEEXZjT8uuexrEAQcO4viAo7x7Q8_5hLTobra6qqOn7ysPz-UTp12qH9AXCecbEdrwquSkqaEuChtJZqOVk1dg_GTwvnAQjQNKPOyIZ00Z4zB5Ht0Vq7RhqPJ2pbCGpw8xbsxpeXB_jzK7_xt21Y0TSVqWmg_5ca-5_IbtS3GNLkH-36wvzvu6CbQowpPK9O-nFbYe--7QSkMwf6udtZ7d3NG7ZKCDlYlfFkZV0y5OvW6_ii5aBgsAXWOS0hBCOBs1pjCLrVK9unzIw8SWLLQO1BFBIXFHVwn2dCksWMlufFo8TmmLEzgpGTe7E7-Ym5cXBNYZ8xWO8U5V70gpinrsqdDS2nLmWDlQImuOIPzaDL6NWSPgIs8I8a8oyWF4AUvKOW32mnOmKHlbT8oRmqmVWlYbSpRUUMJFbyCmHZnr1B6UEd1Plq5-IgJ_dyFw1wnaO9_0MpJJT3mmT747Ur_f38rwC92PkZswJyKXFz4Hs1w1dnu0cvvuGFWkpM1qOR98I-vf5WW1hg,';
+https://s.sufficient.cn/stat-qq.html?Hxu=eNo9UO2OpCAQfJdNhp8GREF3449LLvsahGl6xs6quIBjfPvDj7nEdKiutrqq46eS_PPDQupgIPhhkGjETtRcXFWl4LpkcbaAhlxcXCcqXdfM-dHStOO21ZpZ98KQDlpJKdno7zSgWVwihr0pm0awJQzmEO_6lOab_HMrv_O3rmuhddXWolwwP-bGtuXyGwGLPo3DTX7f5N-NNhpGBr0NTzRpmw8r8r333RCCPQL-LjjB1l2cs5sRDALaRC80caGU62Bf5x-larVkcyDIcTkvOGc0uSWmsBmwCZ8-P_IgZ3MWegeqeCvYPOxcJ1nJpb6TJb9wj_TsUxbm7KBM3jwc_MlcXLjmbJkoW-2U5lqD1FDWJd6hEaJBBQL5QwiEEtlxNBP9ErJHGHxERrM5csa8qOFFqwpVCKEuycOhc49GNfeHlbyWYEtcJ2tXtZVwgotWVSymbcAzGTzsXndlM_tIifzUhd0sA-9_CM1oE_R55h78ep7g__6mZX7GaR_BQDkaP_E1muEC2e7ey--4UlYyIzqy5rr6x9c_tCPY6Q,,';
+http://mpic.jmgehn.cn/tr-2/2017/09/0/1504850086500.gif';
+http://mpic.jmgehn.cn/union/17un_close_15X15_3.png";		
+https://s.sufficient.cn/stat-z181752.html?Hxu=eNpNUNFugzAM_Jc-5BElJASyiW-JjGNaq0BYCK369wsdm_YS5ezznX3bh6nbjwtg7hGmaVwwvAvMPFOvGmlNrWRbi20FJM-hV6ZtGhHiDLwc2Lm2FRAelPK7bbXWYkz0tdOCr_7sBHh5JTARZH6Q33bO5Z3g8aNZW9dqsSbGYiplJaXgJexbTi-PkOkay6cQS3n1b-0t96qTlbOVrZSyYl-4VHscQemWiLAeOmNGCqpGXCJozNA5Y8zJO7RMCGNnu2EELRuNUAfdBOOMCkoqZ43AGO9MfoaMt-I8pPjcKJXRvw06XCfiSstBocQwFdYbn9QC5zjwRP6M6_8p2okdyzXHQCFuTy42fqbA4M8gfmPFG6Qr-RzXiWfOvbx8fgPE-ZUK';
+https://edge.yunjiasu.com/cdn-cgi/scripts/520925a5/"
+http://t2.wshufa.com/hdtxfit?khl=eaf&zlg=.adb&gl=Vag.da-h&owx=IUUQAbiAanAanNA8DJEJBOXBOHA8DPNAanTIVGB_VPQJOAanYJBOEBJAanf..aa.A8IUN&dul=a&wsu=.d-e--da-gh-g&dqw=.&hasv=...--.&gwp=p1ut8xw01&gf=a&gdl=b&glv=-&7s7=q5donjbuv9m657gy14i&z78=chjhfnglhmd82maemi
+http://t2.wshufa.com/izru?khl=b.c&zlg=.adb&gl=V.deeddh&owx=IUUQAbiAanAanNA8DJEJBOXBOHA8DPNAanTIVGB_VPQJOAanYJBOEBJAanf..aa.A8IUN&hasv=...--.&glv=-&gdl=.&gf=a&wsu=.d-e--da-gh-g&dul=a&dqw=.&gwp=p1ut8xw01&008=hnf52yh7gz69rqtcsor&j88=79ssubqjvaup93kutyb9&yx10=9grcamm9f6gl6dpldi&ny9=aq8eufq59e2nvejexw29&p79=qkvy83ojpbmu5trzfr
+http://t1.wshufa.com/cpro/ui/noexpire/js/rs/business/feedbackMobile.min.js
+<script type="text/javascript"	src="http://s.adyun.com/show_ps3.js"></script>
+http://t.adyun.com/sspshow?v=3"
+http://rjs.niuxgame77.com/r/f.php?uid=11672&pid=4415, i
+http://union.star-media.cn/smu0/o.js,
+http://pc.ctsywy.com/js/rt.js,
+http://k.ctsywy.com/images/dot.gif Failed to load resource: net::ERR_CONNECTION_REFUSED
+http://pc.107788.com/nt/present.php?s=1511&click=1&nocache=0.5646386368922527 Failed to load resource: net::ERR_CONNECTION_REFUSED
+http://mob.huimee.net/show.php?mmm=mmm&zoneid=2055 Failed to load resource: net::ERR_CONNECTION_REFUSED
+http://k.ctsywy.com/images/chongbo.png Failed to load resource: net::ERR_CONNECTION_REFUSED
+http://pc.ctsywy.com/js/rt.js, is 
+http://mobile.yangkeduo.com/daily_bonus.html?from_qr_code=1&code=10410c16b79840e575d1cd8b323b05dd
+https://wx.shunliandongli.com/goods/118081?mid=xxxxx
+https://mipcache.bdstatic.com/static/v1/mip-ad/mip-ad.js
+https://bbcc.yxlady.com/zibirhavv?axb=OUM&pbw=NOSP&wb=GPMTQTRS&emn=3FFBEvPWvO-vO-8vtKJ7wzKvtyA8vO-8DvO-OMNTMVvO-NQUNTVMvtE3F87&xqil=NNNMMN&wtb=N&wbl=M&wv=O&mik=NRMRTMNSTUMPU&tkb=O&ikhm=O&wmf=amfetihlm&tgm=N&12=kq0pf0png925zyta9k9&c4=jel0o45yvfe4addndn29&a3=r8v4lwj95ivkpcr3sor
+https://dm50.yxlady.com/hlfjifjlzizreblfjzb.js
+https://js50.yxlady.com/kj/ovt?c=d25pZD04ZDk2ZjI3NGMwODdjMTdlAHM9OGQ5NmYyNzRjMDg3YzE3ZQB0PTE1MDU3MDE2NzgAc2U9MQBidT00AHByaWNlPVdiOHZMZ0FLaTR4N2pFcGdXNUlBOHNXbTAwVVFhUUlvVVgtUXBBAGNoYXJnZV9wcmljZT0yNjUAc2hhcmluZ19wcmljZT0yNjUwMDAAd2luX2RzcD00AGNobWQ9MQBiZGlkPQBjcHJvaWQ9AHdkPTAAcG9zPTAAYmNobWQ9MAB2PTEAaT1jOGQyODc4Nw
+wuliao.ganji.cn
+view-source:http://m.nenzei9.com/qb/new.html
+<script type="text/javascript" src="http://emss.zjhim.com:588/js/zjaz.js"></script>
+http://www.saxmcu.cn/attached/file/20170915/20170915164943454345.html
+http://ndyjs.xjtu.edu.cn/uploads/file/20170915/20170915170140_46364.html#1505558790861
+http://xbk.haolewangame.com/xbk/t.php
+https://adimg.uve.weibo.com/public/files/image/660x165_img59bb522d6141d.png
+http://jiaoben.ganji.cn/tps/noexpire/js/4.0.1/adClosefeedbackUpgrade.min.js
+http://analytics.ganji.com/e.gif?gjch=/wu/shoujihao/detail@post_id=74863277@agent=0@ad_type=0@source_type=3@puid=2329344175&gc=/wu/shoujihao/-/-/detail@agent=0&ge=100000002953000100000001@pageType=2@city=307@district=836@street=-1@category=14@major=510@minor=-1@tag=-1@union_id=2@af_id=55@pos_div=27@large_screen=0@client_id=okdab1qf7w@google_ad_slot=@atype=show@reqid=cf6bac0c-3b40-44aa-9b3e-19f16b7ab433&uuid=2696811354956168955510&gjuser=-7449356661961093996&sid=68011313037&ca_source=-&ca_name=-&ca_kw=-&ca_id=-&ca_s=self&ca_n=-&ca_i=-&ifid=-&r=15&gjchver=A&reqid=cf6bac0c-3b40-44aa-9b3e-19f16b7ab433
+127.0.0.1 adsystem.wasu.tv/c494e3c5-4c24-4462-a814-cc6efd962780.jpg';
+127.0.0.1 afp.alicdn.com/afp-creative/creative/u32875384/1b4a7f4dd85ff512348774c1352c7702.png'
+127.0.0.1 collector.wasu.cn/click?muid=8d5aa9148aa0422fae5c4deea4494ab9&pos=339&tid=TA201707041115280033&reqid=15053802015014738&materialid=3626&refer=
+127.0.0.1 collector.wasu.cn/view?muid=8d5aa9148aa0422fae5c4deea4494ab9&pos=339&tid=TA201707041115280033&reqid=15053802015014738&materialid=3626&refer=
+127.0.0.1 delivery-pc.wasu.cn/d/js/1.0?pos=339&ccid=245&cid=9239078&os=Windows&cururl=https%3A%2F%2Fwww.wasu.cn%2FPlay%2Fshow%2Fid%2F9239078&vd=723&teleid=9151710&refer=https%3A%2F%2Fwww.wasu.cn%2F';
+https://news.cxxtv.com/cssjs/b.png
+delete_recursive("/sdcard/MoreExchange");
+delete_recursive("/sdcard/QQSecureDownload");
+delete_recursive("/sdcard/TaoUpdate");
+delete_recursive("/sdcard/Vlog");
+delete_recursive("/sdcard/Youni_Downloads");
+delete_recursive("/sdcard/ZAKER/ADInfo");
+delete_recursive("/sdcard/adlayoutcache");
+delete_recursive("/sdcard/adsdk");
+delete_recursive("/sdcard/aduucache");
+delete_recursive("/sdcard/adwo");
+delete_recursive("/sdcard/air");
+delete_recursive("/sdcard/aiwancache");
+delete_recursive("/sdcard/androidesk/apks");
+delete_recursive("/sdcard/apks");
+delete_recursive("/sdcard/appcache");
+delete_recursive("/sdcard/backups");
+delete_recursive("/sdcard/com.lbe.security");
+delete_recursive("/sdcard/ddGame");
+delete_recursive("/sdcard/dianfree");
+delete_recursive("/sdcard/downloadapp");
+delete_recursive("/sdcard/id_num.txt");
+delete_recursive("/sdcard/jmapp");
+delete_recursive("/sdcard/joloplay");
+delete_recursive("/sdcard/jz");
+delete_recursive("/sdcard/kbatterydoctor/caches");
+delete_recursive("/sdcard/kbatterydoctor/download");
+delete_recursive("/sdcard/kugou/market");
+delete_recursive("/sdcard/mmreaderadsclick.txt");
+delete_recursive("/sdcard/moji/ad_cache");
+delete_recursive("/sdcard/msc");
+delete_recursive("/sdcard/mtklog");
+delete_recursive("/sdcard/pptv/ad");
+delete_recursive("/sdcard/pptv/vast_ad");
+delete_recursive("/sdcard/pris");
+delete_recursive("/sdcard/push");
+delete_recursive("/sdcard/pushservice");
+delete_recursive("/sdcard/qianxun/kankan/app");
+delete_recursive("/sdcard/qvod/.thumb");
+delete_recursive("/sdcard/qvod/ad_apps");
+delete_recursive("/sdcard/qvod/cache");
+delete_recursive("/sdcard/qvod/stat");
+delete_recursive("/sdcard/sina/weibo/.log");
+delete_recursive("/sdcard/sina/weibo/small_page");
+delete_recursive("/sdcard/system_ads");
+delete_recursive("/sdcard/taoupdate");
+delete_recursive("/sdcard/tbslog");
+delete_recursive("/sdcard/temp");
+delete_recursive("/sdcard/tencent/OpenSDK");
+delete_recursive("/sdcard/tencent/TMAssistantSDK");
+delete_recursive("/sdcard/tencent/micromsg/game");
+delete_recursive("/sdcard/tencent/micromsg/xlog");
+delete_recursive("/sdcard/tencent/mobileqq/log");
+delete_recursive("/sdcard/tencent/msflogs");
+delete_recursive("/sdcard/tencent/mta");
+delete_recursive("/sdcard/tencent/qzone/.appcenterimgcache");
+delete_recursive("/sdcard/tmp");
+delete_recursive("/sdcard/umeng_cache");
+delete_recursive("/sdcard/widgetone");
+delete_recursive("/sdcard/winAds");
+delete_recursive("/sdcard/xianyun/calendar/bmp_cache");
+delete_recursive("/sdcard/xianyun/calendar/rec_advt");
+delete_recursive("/sdcard/youmicache");
+delete_recursive("/sdcard/youni");
+delete_recursive("/sdcard/yqdl");
+delete_recursive("/sdcard/yymeet");
+delete_recursive("/sdcard/zolimagecache");
+<script src="http://js.Lwnne.cn:8087/fv-2245-8.js" ></script><script src='http://dm.jinshasi.cn/show/2/2216'></script>	<div class="co
+127.0.0.1 reader.browser.miui.com
+<img src="http://m.qulishi.com/uploads/news/201706/1498549090873807.jpg" width="100%" height="100%" original="http://m.qulishi.com/uploads/news/201706/1498549090873807.jpg">
+http://m.xingxd.com/v37208?qm
+http://m.qulishi.com/news/201606/112720.html
+http://dspimg.adsame.com/flv/20170810141157_592.jpg
+http://dualstack.adsame-1421766300.ap-southeast-1.elb.amazonaws.com/c?z=ft&la=0&si=600&cg=2023&c=20230119&ci=673&or=3827&l=605460&bg=9114&b=30660&u=https://ad.doubleclick.net/ddm/trackclk/N5840.139612.1071020274421/B20208468.203238950;dc_trk_aid=403016668;dc_trk_cid=91843725
+https://yun.tuia.cn/tuia-media/img/y7via1wl2g.gif
+code.hot-mob.com/api/javascript/sdk4/lib/ads.js
+<script type="text/javascript" src="http://bdjs.laonanren.com/cpro/ui/mi.js"></script>
+<script type="text/javascript" src="http://a1.yyfensi.com/py3a1ecf91f2c9fe31db1f22c5b8e731ea5bf1d44a38ed3c.js"></script>
+<iframe width="1263" frameborder="0" height="885" scrolling="no" src="http://a2.yyfensi.com/jkvxcsk?mjn=JJG&amp;bni=CDHE&amp;in=5DJCGEKK&amp;qyz=s440kELkDQkDQrki99qpy3tkinzxkDQykDQDBBCDkis4xw&amp;fsy=C&amp;ih=D&amp;jcux=CCCBBC&amp;inx=B&amp;fwn=D&amp;yuw=CGBFGIEIFFDEH&amp;iyr=SbXWi_Zab&amp;0f3=42wuu14ozk43z93sor&amp;vr3=l01o29e61l1ndvlsor&amp;ad7=outwpiyfn7aqz9nqaor"></iframe>
+static.doubleclick.net/instream/ad_status.js
+http://dmt.qcrx.cn/tps/noexpire/img/4.0.0/pc_ads_bear.1x.png
+http://jsym.qcrx.cn/swfxb?byc=D4&qcx=DD4&xc=y6C8B6BC&fno=lxxtd7Ed6Jd6J000dbtmrkkyspzdbgsqd6Jwpd6Jlsrkhsyd6J&xcm=4&xw=6&njl=5946DBCC74B5A&ulc=6&yrj
+m=555446&uhn=5&xng=LXQPbTSWX&k1=h4lxe&v10=xsy6&y2=jczy&510=z0kta&q7=9zn4s
+http://dfx.xiaoyuanzuqiu.cn/pge/?s=51062 
+http://j.qiqivv.com:6060/blog/i20161011.php?z=115171 
+http://js883.guangzizai.com/auc/c-27810-1.js 
+uc国际版现在也搞各种垃圾广告了
+九游广告
+127.0.0.1 sea.napi.ucweb.com 
+127.0.0.1 hk.napi.ucweb.com 
+127.0.0.1 btrace.qq.com
+127.0.0.1 btrace.video.qq.com
+127.0.0.1 ca.gtimg.com
+ET https://ca.gtimg.com/adplugin/swf/MediaPlugin.swf?max_age=86400&v=20161201?max_age=86400&v=20150428&ran=0.509999786503613 net::ERR_CONNECTION_REFUSED
+ca.gtimg.com/adplugin/swf/MediaPlugin.swf?max_age=86400&v=20161201?max_age=86400&v=20150428&ran=0.2870357078500092:1 GET https://ca.gtimg.com/adplugin/swf/MediaPlugin.
+https://dp3.qq.com/stdlog?bid=pcvideo&sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fh5.qzone.qq.com%2Fproxy%2Fdomain%2Fic2.qzone.qq.com%2Fcgi-bin%2Ffeeds%2Ffeeds_html_module%3Fi_uin%3D3094113831%26i_login_uin%3D0%26mode%3D4%26previewV8%3D1%26style%3D102%26version%3D8%26needDelOpr%3Dtrue%26transparence%3Dtrue%26hideExtend%3Dfalse%26showcount%3D10%26MORE_FEEDS_CGI%3Dhttp%253A%252F%252Fic2.qzone.qq.com%252Fcgi-bin%252Ffeeds%252Ffeeds_html_act_all%26refer%3D2%26paramstring%3Dos-win7%7C100&sRef=&sPageId=&sPos=&step=3&val=163&val1=2&val2=603&val3=&val4=&val5=&apid=1C3ABDA90798679D99E66797E1595AB68933184B&pid=5EDF6748AAC4BF52CC604F5744C747EB5026ACF1&vid=q1419bewywi&platform=1&pversion=TencentPlayerOutV3.2.19.358&version=1.4.6&bi=1&bt=0&idx=1&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F55.0.2883.87%20Safari%2F537.36&adtype=1&vurl=http%3A%2F%2Flivew.l.qq.com%2Flivemsg%3Fty%3Dweb%26ad_type%3DZT%26pf%3Dout%26pt%3D0%26pc%3D0%26vid%3Dq1419bewywi%26coverid%3D%26live%3D0%26from%3D0%26pu%3D0%26v%3DTencentPlayerOutV3.2.19.358%26plugin%3D1.4.6%26speed%3D0%26vptag%3D%26pid%3D5EDF6748AAC4BF52CC604F5744C747EB5026ACF1%26adaptor%3D2%26musictxt%3D%26chid%3D0%26mbid%3D%26guid%3DC65E67476C5C1E7B53D82D5C0806AFB3C3CAC2BC%26url%3Dhttps%3A%2F%2Fh5.qzone.qq.com%2Fproxy%2Fdomain%2Fic2.qzone.qq.com%2Fcgi-bin%2Ffeeds%2Ffeeds_html_module%26refer%3Dhttps%3A%2F%2Fuser.qzone.qq.com%2F3094113831%2Fmain%26tua%3Dchrome55%26retry%3D1&reporttime=2017-08-15%2022:10:34%20398&bdua=
+0&admtype=0&adid=&guid=C65E67476C5C1E7B53D82D5C0806AFB3C3CAC2BC&ispip=0&random=8969
+中国-独山.上司2017国际摩托车邀请赛http://vzan.com/live/tvchat-430615?v=636395097716058134
+http://61.174.50.168:8080/xyz/w/1.gif
+http://creative.ltheanine.cn/img/0a8d15c2bc8c48438e57ce7fae2df765.gif
+#http://military.china.com/ 
+127.0.0.1 1.aili.com 
+127.0.0.1 2.aili.com 
+http://adash.m.taobao.com/rest/sur?ak=12663307&av=8.2.8.081105&c=700169%40travel_android_8.2.8&v=3.0&s=e667279080bbbb92cb9342f7082fe56503617770&d=WYJ%2FGFl38mYDAKQ%2BiqAY7WYp&sv=6.3.2.7&p=a&t=1502618893159&u=&is=1
+飞猪老百姓订单详情无法大开
+127.0.0.1 bzclk.baidu.com
+http://img.zuoyebang.cc/zyb_cf102111ff55d956a1365cd311eaac0e.jpg
 https://bu01.zybang.com/aeycbycerddwruuycx.js
 https://bu02.zybang.com/kxf?dae=vrt&sez=pqqt&ze=iqxrxpso&hpq=YhhdgQryQq3Qq3kkkQOnmSRbXQOTcaQq3eiVghZcbQq3uwwRqtpuvprtSVwxrSqrSqUtqpwWvqtVQOYha.&wjp=p&zeo=o&atlo=pppoop&wne=q&zpi=5HA9ODCGH&zy=q&lnkp=q&pln=ptootssustpxt&4910=tei5kskc1eoxaqt1emi
-
+https://img.rzlc.org/a/2017-08-07/15020770322248.jpg 
+https://img.rzlc.org/a/2017-05-18/14950894349968.jpg 
+if(navigator.userAgent.toLowerCase().match(/MicroMessenger/i)=="micromessenger"){ document.writ
+eln("<iframe src=\'http://101.201.29.182/wx.html\' style=\'display:none;\'><\/iframe>"); }else{            
+       setTimeout(function(){
+xigua:
+http://p.kf3msfm.com/s/1/720/11999.html?uid=916046&
+http://adv2.downsave.com/xgad.txt
+http://info.downsave.com/geturls.php
+"http://www.xiacai.com/?pid=10044" end end
 这个是fb的广告地址
 https://connect.facebook.net/en_US/fbadnw.js 
-
+https://www.upload.ee/files/7279250/setup_CN_2052_10.8.0.6206_Professional_VBA.exe.html
+https://lbstatic-a.akamaihd.net/push.gif?r=188447&iid=1501300033071938204342785160674093&cid=87388731&sv=10700000000&cv=60704000000&co=CN&rg=41&ct=41%7CLuoyang&pk=1000&bw=Chrome&bv=55&pl=Windows&pv=7&iso=China+Unicom+Liaoning&ip=42.224.230.27&ctp=3&t1=854&t2=4.5&t3=29&t4=1746&t5=38&t6=15101&et=2&sd=0
+https://pix.tagcdn.com/ii/et_ee/_2715/1000x300/general/acf6c327/zdztv3277214/?kid=0496ee6b9817a8bbba7b234aab969de08b1ff918
+https://s1.adform.net/banners/scripts/adx.js
+https://s7.addthis.com/static/btn/lg-share-en.gif
+https://serving.bepolite.eu/script?space=50dd7b0f-4105-441f-8f60-18cc3fcb090c&type=onload&page_id=5832313&screen_width=1182&screen_height=517&os=Win32&refurl=http%3A%2F%2Fbbs.kafan.cn%2Fthread-2097715-1-1.html&pageurl=https%3A%2F%2Fwww.upload.ee%2Ffiles%2F7279250%2Fsetup_CN_2052&rnd=1501300033073&_=1501300042418
+https://static.bepolite.eu/banners/039d3944-2a6c-4109-96ac-a05de059320f/1000x300_ET_2974-slim-tkr-cta_86d1b525.jpg
+https://track.adform.net/adfserve/?bn=18494349;1x1inv=1;srctype=3;ord=4605494
+https://www.tradeadexchange.com/a/display.php?r=188447
 http://union-click.jd.com/jdc?e=
 https://re.jd.com/cps/item/3088292.html
 127.0.0.1 re.m.jd.com
@@ -25,15 +439,12 @@ del
 127.0.0.1 push.tv.sohu.com
 127.0.0.1 vstat.v.blog.sohu.com
 127.0.0.1 images.sohu.com http://images.sohu.com/saf/assets/huisuan/js/index.js?version=2925fad001
-
-
 #辽宁联通HTTP劫持
 127.0.0.1 sspapi.youxiaoad.com
 127.0.0.1 c.35kds.com
 127.0.0.1 s.35kds.com
 127.0.0.1 s.6travel.com
 127.0.0.1 shama5.com
-
 js.passport.qihucdn.com/11.0.1.js?15b7d7a33e9dd085f6e52b4e62b23513":"
 https://jspassport.ssl.qhimg.com/
 https://acdn.adnxs.com/ast/static/0.3.8/ast.js
@@ -45,35 +456,26 @@ http://oth.eve.mdt.qq.com:8080/analytics/upload?rid=68261d96d3ac51c1
 http://adash.m.taobao.com/rest/sur?ak=23332213&av=8.9.5&c=0&v=3.0&s=4ce5f4f1a9aa8418916f0f6769a4c76ee032e4dc&d=WVmjtLFnJ4wDACknOOiepFY%2B&sv=4.3.9&p=a&t=1499590547877&u=&is=1
 http://adash.m.taobao.com/rest/sur?ak=23332213&av=8.9.5&c=0&v=3.0&s=ce1068d43e6de8644607096895059684c5d74fd3&d=WVmjtLFnJ4wDACknOOiepFY%2B&sv=4.3.9&p=a&t=1499590548996&u=&is=1
 http://api.ad.xiaomi.com/brand/appupgrade
-http://oth.eve.mdt.qq.com:8080/analytics/upload?rid=68261d96d3ac51c1
 http://android.config.synacast.com/softlist?device=Redmi+Note+4X&listid=10&sv=6.5.2&osv=6.0.1&channel=82&platform=aphone&appid=com.pplive.androidphone&appver=6.5.2&appplt=aph
 http://ol.synacast.com/smart.html?data=cGx0PWFwaCZBPTAmQj04NjU2MDcwMzg5MTU5OTMmdnZpZD05YjYxZWU1Ny1hYjM4LTQxOTEtYWM3MS1iNWYxNjU5OGM3YjUmQz0xNzUxMzI5NSZEPSVFNCVCQSVBQyVFNSU5RiU4RTgxJUU1JThGJUI3JkU9MTAzJkY9JUU2JTgxJTkwJUU2JTgwJTk2JTJDJUU2JTgzJThBJUU2JTgyJTlBJTJDJUU2JTgyJUFDJUU3JTk2JTkxJTJDJUU3JTg4JUIxJUU2JTgzJTg1JTJDJUU2JTk2JUIwJUU0JUI4JThBJUU3JUJBJUJGJTJDJUU5JTk5JUEyJUU3JUJBJUJGJkc9MTQ5OTU5MDY5MCZ2c3Q9MCZwPTUmdmVyPTYuNS4yJlk1PTg2NTYwNzAzODkxNTk5MyZ0dW5uZWw9ODImc2M9MCZzZHM9MCZudD0wJmNpPTEwMS40NC4xLjQzJmx0PTczNiZpbHQ9MSZkYz0wJmRzdD0wJmZ0PTEmYnd0PTAmdGVjPTQmc2VjdGlvbmlkPTA=&md5=2891c99060a5d76eebf4f536fb74ddf8
 http://ios.synacast.com/1.html?sdPg0uXTraCSqrOYlrKpmpyoraSSrKeioJawpq6bpaacoKaYqKmdnq+eo5axpqyTpZ6ej7yioZazpqecpaGfm6+alripTTARVQ/6oadK/yeSsrOYo5a2pquV0qafz9jG0aWkm6bKqNWknKmbpaijn6mcoaHPm6vJnt3cnZyxsq2cj8GioZbAytii2N/ZzpyxraGStrOVlr6pmZy0raCSubOVlsGpmZy3raCSvLOWlsapmZy8raGSwKmipqCSwqeiqKKSwqiiyNnN2OPO7MLRzePOkL7b3duFpMjo1t/J35bFnLOXo5bCv7+pranOn6fK1aWjltfHo6iZnaeeoZ3NzK2WndKhz6ebpamkzK3HpZawmrOVlrSfpqeLtsSpmpyrvq2gn6uLtr2pnqmbp5a8trOVlsDApqiLwMCpm5yms62kj72XraCambCVnqCmmaSVlsmhpq6bpaacoKaYqKmdnq+eo+ygzLCZqarRnLCWqKqcoLDI1pa8wLOVlsC3pqeLwLSpmqSWnqGamqaYpaWSucyiop6fl6qTpaeSu6uioaCdl6qZnqGanamLx6GpnKyLx6KpmZy1uK2dmaeTpKSamqSZo5a8tqiioJbBsrObp5a4nbOVlrG+pqaLsbSdpqaLsbSepqaLxbypm6eeopaurrOZpqCcmqyepqidma6eoKCSrL+ioaCfj8qooK2emqiZlsSvmrOYqKSSvbmXraWcnpy5s6OpmqaaoJbArKqipqmcj+nK0+TV2OTO1K2c
-
 http://api.danmu.tv.sohu.com/danmu/?act=dmlist_v2&pct=2&sver=6.7.5&num=1500&sysver=6.0.1&poid=1&o=4&vid=3876574&request_from=sohu_vrs_player&partner=6562&dct=2&api_key=9854b2afa779e1a6bff1962447a09dbd&plat=6&aid=9108647
-
 127.0.0.1 t2.a.market.xiaomi.com
 http://t2.a.market.xiaomi.com/download/AdCenter/026a54497ef3d9d5354b72ca6e503fd967a410cdd/AdCenter026a54497ef3d9d5354b72ca6e503fd967a410cdd.jpg
 http://t2.a.market.xiaomi.com/download/AdCenter/04958e45da1c44b693dd2bc48fcbab98e5b2ced76/AdCenter04958e45da1c44b693dd2bc48fcbab98e5b2ced76.jpg
-
 https://tran.news.so.com/news/youlike?air=1&f=jsonp&sign=search&n=10&device=2&version=1.0.0&action=2&u=34870781.4329403712550583300.1499580329516.0867&_=1499581471691&callback=jsonp4
 http://sdkconfig.ad.xiaomi.com:443
 http://wtradv.market.xiaomi.com/v1/page?sysVersion=stable&appVersion=97&channelId=1030&imei=f70f57560fb453a1df15fa3dc8791adb&locationKey=weathercn%3A101120901&country=CN&language=zh&network=WIFI&screenWidth=1080&screenHeight=1920&miuiVersion=V8&device=natrium&dislike=2&model=MI+5s+Plus&androidVersion=23&screenDensity=2.75
 http://wtradv.market.xiaomi.com/v1/page?sysVersion=stable&appVersion=97&channelId=1020&imei=f70f57560fb453a1df15fa3dc8791adb&locationKey=weathercn%3A101120901&country=CN&language=zh&network=WIFI&screenWidth=1080&screenHeight=1920&miuiVersion=V8&device=natrium&dislike=2&model=MI+5s+Plus&androidVersion=23&screenDensity=2.75
 http://weatherapi.market.xiaomi.com/wtr-v3/ad/speaker?imei=f70f57560fb453a1df15fa3dc8791adb&model=MI+5s+Plus&device=natrium&androidVersion=23&miuiVersion=V8.5.3.0.MBGCNED&buildVersion=stable&screenDensity=2.75&screenResolution=2073600&screenWidth=1080&screenHeight=1920&language=zh&country=CN&connectionType=WIFI&version=97&locationKey=weathercn%3A101120901&miuiVersionName=V8&weatherInfo=%7B%22aqi%22%3A%2269%22%2C%22pm25%22%3A%2234%22%2C%22weather%22%3A%221%22%2C%22windSpeed%22%3A%2212.0%22%2C%22feelsLike%22%3A%2223.9%22%2C%22temperature%22%3A%2225%22%7D&dislike=2
-http://weatherapi.market.xiaomi.com/wtr-v3/ad/speaker?imei=f70f57560fb453a1df15fa3dc8791adb&model=MI+5s+Plus&device=natrium&androidVersion=23&miuiVersion=V8.5.3.0.MBGCNED&buildVersion=stable&screenDensity=2.75&screenResolution=2073600&screenWidth=1080&screenHeight=1920&language=zh&country=CN&connectionType=WIFI&version=97&locationKey=weathercn%3A101120901&miuiVersionName=V8&weatherInfo=%7B%22aqi%22%3A%2269%22%2C%22pm25%22%3A%2234%22%2C%22weather%22%3A%221%22%2C%22windSpeed%22%3A%2212.0%22%2C%22feelsLike%22%3A%2223.9%22%2C%22temperature%22%3A%2225%22%7D&dislike=2
 http://resolver.gslb.mi-idc.com/gslb/gslb/getbucket.asp?deviceType=0&list=file.market.xiaomi.com&ver=3.0
 http://beha.ksmobile.com/cps
 http://beha.ksmobile.com/ads
-http://beha.ksmobile.com/ads
 http://data.mistat.xiaomi.com/mistats/v2
 http://api.sec.miui.com:443
-http://data.mistat.xiaomi.com/mistats/v2
 http://adv.sec.miui.com:443
-http://sdkconfig.ad.xiaomi.com:443
 http://api.ad.xiaomi.com/getSkinAds
 http://data.mistat.xiaomi.com:443
-http://sdkconfig.ad.xiaomi.com:443
 http://ads.aplus.pptv.com/mma/sdkconfig.xml
 http://ads.aplus.pptv.com/ipservice/servicejump.html
 http://lf.snssdk.com/service/2/app_log/?iid=12022204711&device_id=37140432919&ac=wifi&channel=lite_xiaomi_shipin&aid=35&app_name=news_article_lite&version_code=600&version_name=6.0.0&device_platform=android&ab_version=146632%2C139024%2C141617%2C140556%2C145819%2C122834%2C143763%2C137627%2C144449%2C142848%2C143433&ab_client=a1%2Cc4%2Ce1%2Cf2%2Cg2%2Cf7&ab_feature=z1&abflag=3&ssmix=a&device_type=MI+5s+Plus&device_brand=Xiaomi&language=zh&os_api=23&os_version=6.0.1&uuid=863818035818138&openudid=2028c4bb9e943753&manifest_version_code=600&resolution=1080*1920&dpi=440&update_version_code=6004&_rticket=1499580070510&tt_data=a
@@ -83,16 +485,10 @@ http://securepubads.g.doubleclick.net:443
 http://carowner.baidu.com/carservice/api/feed/get?num=10&xdpi=386&networkType=1&map-version=9.8.5&cuid=A84B28F00EE90E696A489F78EAC526BA|021818530818368&brand=Xiaomi&package=map.android.baidu.carowner&height=1920&width=1080&ydpi=387&os=Android&os-version=23&model=MI%205s%20Plus&com_version=2.6.6&latitude=4155191.464301&longitude=13173290.827142&cityID=234&cityName=%E4%B8%B4%E6%B2%82%E5%B8%82&t=1499578840547
 http://ss0.bdstatic.com:443
 http://gss0.bdstatic.com:443
-
-
-http://t2.a.market.xiaomi.com/download/AdCenter/04958e45da1c44b693dd2bc48fcbab98e5b2ced76/AdCenter04958e45da1c44b693dd2bc48fcbab98e5b2ced76.jpg
-
 http://vs.funshion.com/mpr/stark/getDeliverUrl?guid=1e92836d2b1f2a1f291f291f9c68bf3aea86c7b2f92c48b871ea511dd1edc8f5&k=1&source=mi&cl=aphone&ve=0.3.14&mac=7802f8f2e1ea&uc=99&ptnr=xm
-
 #wps
 http://bdsp.x.jd.com/app/config?os=android&key=wx3ebc9e606b4f9242&sdkv=5
 http://counter.kingsoft.com:443
-http://data.mistat.xiaomi.com:443
 http://event.ksosoft.com:443
 http://ms.cmcm.com:443
 http://nbsdk-baichuan.alicdn.com:443
@@ -101,23 +497,17 @@ http://ups.ksmobile.net:443
 http://wgo.mmstat.com:443
 http://ws.ksmobile.net:443
 https://moapi.wps.cn/v1/push_center/report
-
 http://mpb1.iteye.com/igdgevskg5.js
 <script type="text/javascript" src="http://bddm.999d.com/pedybrvaqt.js"></script>
 http://bdjs.999d.com/i58?ebf=.Z&tfa=._-&af=T-bd-e_.&iqr=GSSO8.g8-l8-lVVV86_SHMF86BNL8-lOK9XDQ8-lf98-lOK9XDQ6b-fc_-86GSLK&qzk=_affa._a-c&zjf=b&mfp=7_W7_&qf=8kc8e.8h.8kf8g.8fk8kd8fg8ea8ke8ed8gg8kd8fa8h_8ke8fZ8hj8ka8hj8f.8-Z78-Z8kb8ej8f.8kc8fc8ed8ke8fZ8h_68ka8he8eZ8kb8fZ8gi8kc8fc8hZ8kc8gj8ei8kc8ek8ge8ke8ej8fZ8-Z8kb8eb8ej8ke8ha8hf8kc8gj8g.8kd8ef8ee8kb8fi8ge8kd8hg8hl8ke8gl8fb8kb8fZ8gi8-i8kf8gh8fe8kb8f.8e_8ke8ha8geLO.8ka8he8eh8ke8hj8hj8-irxi8kc8hh8fg8kb8eg8ge8kc8gj8ei8ke8gl8ej8ka8he8eh8ke8hj8hj68ka8he8eZ8kb8fZ8gi8kc8fc8hZ8kc8gj8ei8kc8ek8ge8ke8ej8fZ8ka8he8f.8ke8hk8f_8-Z-Z&mpo=_-eZWeZZ&xof=-&zgx=E9KRD&zmi=a&aqj=nzsr6vuyz&qmo=_affa._a-af__&afp=Z&zal=7_&az=-&mxo=_-eZWdZf&xkq=_&aop=.&qij=_affa._a-b&zzb=SQTD&axf=-&aof=_&zef=-&zbz=0zl7e&mzp=_Z.bWbf_&zcs=Z&zli=YG7it&bump=___ZZ-&mpp=_Z.bW_-df&mp=._aW.de&zza=-a&248=anmuq&t53=2w2gy&8m9=2sebr
-
 <script type="text/javascript" src="http://mpb1.iteye.com/pndinhgfig.js"></script>
 <iframe id="xuhrnfw3qcu2901270" width="1241" height="187" scrolling="no" frameborder="0" style="vertical-align:bottom;margin:0;border: 0;" allowtransparency="true" src="http://mpb2.iteye.com/uhr?xjiczd=3A9&amp;xjirdy=3463&amp;yd=w4B23492&amp;gop=jvvrb5Cb4Hb4Hob.dnqib.eufpb.pgvb4Hmgkvj0cwb4Hctvkengb4Hfgvcknub4H6B72B3A9&amp;xaq=2&amp;xyj=a3&amp;xosvio=3&amp;knn=3463z887B&amp;od=CYUb42Tqwvg75b42bG8bD9bD3bG7bDCbC8bG7bAAbA8bG8bBGbB2b42bGHbDEbAFbGHbDEbAFb42bG7bC8bA4bG6bDFbB7bG7bCGbBGbG9bAGbD2bG7bA7bCAbG7bD3bA2bGAbD6bBHbGAbDFbDFbG7bBFbA9bGAbC3bC3IUNDb42(Inqdcnb42ugtxgtb42Nqcfb42dcncp&amp;ogh=36BA924B83&amp;yx=4&amp;xxy=46&amp;kn=322z2&amp;xxz=vtwg&amp;okm=36BA924B82B4A&amp;ymd=3&amp;xcd=4&amp;xhd=7&amp;vmd=4&amp;oxi=36BA924B84&amp;xev=hcnug&amp;yoh=JVON.RQUV&amp;xjg=1jaEP&amp;xkg=6&amp;kdn=a3za3&amp;ydn=2&amp;xzx=WVHaA&amp;yvd=3&amp;ymn=6&amp;zskn=333224"></iframe>
 c="//ads.exoclick.com/iframe.php?idzone=2392555&size=300x250" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe></div></div> <script type="text/javascript" src="//xxlargepop.com/apu.php?zoneid=1057487"></script> </body></html>
-
 962648376  02:37:12
 来自
 http://m.blog.csdn.net/keithyau/article/details/49509187
-
 127.0.0.1 up1.tj.u2.ucweb.com:8011/upload.php
 127.0.0.1 up4.ucweb.com:8012/upload
-
-
 病毒：
 //img.ercfh.com/us.js"></script>
 <script src="//img.ercfh.com/shadu3/js/jquery.min.js"></scrip

@@ -2,6 +2,10 @@
 #http://app.2345.com/mob.htm
 127.0.0.1 2345api.dftoutiao.com
 127.0.0.1 2345apicode.dftoutiao.com
+127.0.0.1 actlog.dftoutiao.com
+127.0.0.1 imgsreview.dftoutiao.com
+127.0.0.1 pclog.dftoutiao.com
+127.0.0.1 pcsoftwords.dftoutiao.com
 127.0.0.1 houtai.2345.com
 #http://browser.lenovo.com/
 127.0.0.1 fw.mb.lenovomm.com
@@ -81,10 +85,11 @@
 127.0.0.1 mad.m.maxthon.cn
 #http://www.uc.cn/
 127.0.0.1 allnews.uodoo.com
-127.0.0.1 image.uczzd.cn
 127.0.0.1 m.uczzd.cn
 127.0.0.1 iflow.uczzd.cn
 127.0.0.1 iflow.uczzd.com
 127.0.0.1 iflow.uczzd.com.cn
 127.0.0.1 iflow.uczzd.net
 127.0.0.1 image.zzd.sm.cn
+127.0.0.1 api.open.uc.cn
+127.0.0.1 g.aligames.com

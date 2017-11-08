@@ -1,3 +1,30 @@
+http://cdn.staticfile.org/jquery/1.7.2/jquery.min.js
+127.0.0.1 web-disp.titan.mgtv.com
+127.0.0.1 web-disp1.titan.mgtv.com
+127.0.0.1 web-disp2.titan.mgtv.com
+http://cdn.staticfile.org/jquery/2.1.4/jquery.min.js id97.com
+127.0.0.1 mp.weixinbridge.com 无法查看原文
+http://puui.qpic.cn/
+http://sta.ganji.com/public/css/ued/vip/vip.cmb.__1468520149__.css
+http://image.uczzd.cn/761945378583441460.jpg?id=0&width=212&height=120 tudou 
+subhd.com
+image
+127.0.0.1 b.bst.126.net 
+127.0.0.1 i8.chinanews.com
+127.0.0.1 js.passport.qihucdn.com
+127.0.0.1 jspassport.ssl.qhimg.com
+http://i8.chinanews.com/2013/home/images/logo.jpg
+www.gugeys.com
+img.alicdn.com
+127.0.0.1 s.wasu.cn css js
+shark.douyucdn.cn
+staticlive.douyucdn.cn
+i.flow.browser.oppomobile.com oppo 浏览器无法登陆但又可以去除资讯
+dhfs.oppomobile.com oppo 浏览器站点无图标
+这个会导致网易博客的评论区头像不见了http://blog.163.com/seo_technology/blog/static/195684049201302592952295/
+http://b.bst.126.net/common/face60.png
+yun.duiba.com.cn 会导致腾讯动漫安卓版的逗比商城白屏
+wd.geilicdn.com weidian image
 https://miuiboot.tracking.miui.com
 刷机后第一开机校验
 address=/.tracking.miui.com/0.0.0.0
@@ -8,7 +35,7 @@ http://data.mistat.xiaomi.com/mistats/v2
 127.0.0.1 abtest.mistat.xiaomi.com
 127.0.0.1 data.mistat.xiaomi.com
 恢复云数据时会卡住的问题
-
+127.0.0.1 img.alicdn.com
 http://sdkinit.taobao.com/init.htm
 http://sdkinit.taobao.com/sdkConfigVersion.htm?sdkVersion=2.1.0&platformName=android
 
