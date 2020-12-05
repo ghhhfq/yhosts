@@ -6,7 +6,10 @@
 #www.gmw.cn
 127.0.0.1 ad.gmw.cn
 #www.huanqiu.com
+127.0.0.1 17.huanqiu.com
+127.0.0.1 21.huanqiu.com
 127.0.0.1 boardx.huanqiu.com
+127.0.0.1 boardy.huanqiu.com
 127.0.0.1 interactive.huanqiu.com
 127.0.0.1 ipengtai.huanqiu.com
 #www.infzm.com
@@ -16,7 +19,6 @@
 #www.people.com.cn
 127.0.0.1 pmm.people.com.cn
 #www.xinhuanet.com
-127.0.0.1 embed.xinhuanet.com
 127.0.0.1 tmisc.home.news.cn
 127.0.0.1 webd.home.news.cn
 #www.ynet.com

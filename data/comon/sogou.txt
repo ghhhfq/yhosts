@@ -1,19 +1,27 @@
 #sohu
+127.0.0.1 assp.sohu.com
+127.0.0.1 fpb.sohu.com
+127.0.0.1 qpb.sohu.com
 127.0.0.1 3rd.t.sohu.com
+127.0.0.1 888.tv.sohu.com
 127.0.0.1 ad.mail.sohu.com
 127.0.0.1 ad.sohu.com
 127.0.0.1 corp.sohu.com
 127.0.0.1 cpc.sohu.com
-127.0.0.1 suvset.sohu.com
-127.0.0.1 images.sohu.com
 127.0.0.1 doc.go.sohu.com
 127.0.0.1 i.go.sohu.com
+127.0.0.1 images.sohu.com
 127.0.0.1 imp.go.sohu.com
+127.0.0.1 s.ads.sohu.com
 127.0.0.1 s.go.sohu.com
+127.0.0.1 suvset.sohu.com
+127.0.0.1 t.ads.sohu.com
 127.0.0.1 t.go.sohu.com
 127.0.0.1 txt.go.sohu.com
 127.0.0.1 x1.go.sohu.com
 127.0.0.1 xls.go.sohu.com
+127.0.0.1 pv.sohu.com
+127.0.0.1 track.sohu.com
 #sogou
 127.0.0.1 adsence.sogou.com
 127.0.0.1 fair.sogou.com
@@ -62,7 +70,6 @@
 #sogou-inte
 127.0.0.1 eff.inte.sogou.com
 127.0.0.1 inte.sogou.com
-127.0.0.1 inte1.sogou.com
 127.0.0.1 p.inte.sogou.com
 127.0.0.1 vps.inte.sogou.com
 #sogou-lu
@@ -93,6 +100,7 @@
 127.0.0.1 inte.theta.sogoucdn.com
 127.0.0.1 jpg.inte.sogoucdn.com
 127.0.0.1 moka.inte.sogoucdn.com
+127.0.0.1 omg.inte.sogoucdn.com
 127.0.0.1 png.lu.sogoucdn.com
 127.0.0.1 theta.sogoucdn.com
 127.0.0.1 wds.inte.sogoucdn.com
@@ -100,8 +108,6 @@
 127.0.0.1 pv.focus.cn
 127.0.0.1 cdn.optaim.com
 127.0.0.1 clk.optaim.com
-127.0.0.1 cm.optaim.com
-127.0.0.1 demo.optaim.com
 127.0.0.1 imp.optaim.com
 127.0.0.1 tk.optaim.com
 127.0.0.1 www.optaim.com

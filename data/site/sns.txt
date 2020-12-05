@@ -1,6 +1,7 @@
 #bbs.gxsky.com
 127.0.0.1 ll.gxsky.com
 #bbs.tianya.cn
+127.0.0.1 801.tianya.cn
 127.0.0.1 803.tianya.cn
 127.0.0.1 dol.tianya.cn
 127.0.0.1 click.tianyaui.com
@@ -8,6 +9,9 @@
 127.0.0.1 pf.pchome.net
 127.0.0.1 pf-2.pchome.net
 #www.douban.com
+127.0.0.1 ad.doubanio.com
+127.0.0.1 at1.doubanio.com
+127.0.0.1 at2.doubanio.com
 127.0.0.1 erebor.douban.com
 #www.hupu.com
 127.0.0.1 cc.dace.hupu.com
@@ -38,7 +42,9 @@
 127.0.0.1 gg.ptfish.com
 #www.xici.net
 127.0.0.1 adimgs.xici.net
-127.0.0.1 xiciim.qtmojo.com
 #www.zhihu.com
 127.0.0.1 sugar.zhihu.com
 127.0.0.1 zhihu-web-analytics.zhihu.com
+#77shw.com
+127.0.0.1 a.77shw.com
+127.0.0.1 b.77shw.com

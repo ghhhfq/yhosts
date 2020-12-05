@@ -1,23 +1,29 @@
 #baidu
+127.0.0.1 aden.baidu.com
+127.0.0.1 afd.baidu.com
+127.0.0.1 als.baidu.com
 127.0.0.1 api.share.baidu.com
 127.0.0.1 api.tuisong.baidu.com
 127.0.0.1 bdimg.share.baidu.com
+127.0.0.1 caclick.baidu.com
 127.0.0.1 cbjs.baidu.com
 127.0.0.1 cm.baidu.com
 127.0.0.1 cm.pos.baidu.com
 127.0.0.1 cpro.baidu.cn
 127.0.0.1 cpro.baidu.com
+127.0.0.1 cpu.baidu.com
+127.0.0.1 cpucdn.baidu.com
+127.0.0.1 publish-pic-cpu.baidu.com
 127.0.0.1 crs.baidu.com
 127.0.0.1 eclick.baidu.com
 127.0.0.1 eiv.baidu.com
+127.0.0.1 em.baidu.com
 127.0.0.1 entry.baidu.com
 127.0.0.1 hm.baidu.com
-127.0.0.1 hmma.baidu.com
 127.0.0.1 idm-su.baidu.com
 127.0.0.1 idm.bce.baidu.com
 127.0.0.1 mobads-logs.baidu.com
 127.0.0.1 mobads.baidu.com
-127.0.0.1 msite.baidu.com
 127.0.0.1 nsclick.baidu.com
 127.0.0.1 nsclickvideo.baidu.com
 127.0.0.1 pc.videoclick.baidu.com
@@ -27,6 +33,8 @@
 127.0.0.1 s.cpro.baidu.com
 127.0.0.1 wangmeng.baidu.com
 127.0.0.1 wn.pos.baidu.com
+127.0.0.1 yingxiao.baidu.com
+127.0.0.1 ms.bdimg.com
 #bdimg
 127.0.0.1 ecma.bdimg.com
 127.0.0.1 ecmb.bdimg.com
@@ -45,16 +53,7 @@
 127.0.0.1 bdplus.baidu.com
 127.0.0.1 btlaunch.baidu.com
 127.0.0.1 datax.baidu.com
-127.0.0.1 dxp.baidu.com
 127.0.0.1 openrcv.baidu.com
-127.0.0.1 tipsdk.baidu.com
-#baidu-news
-127.0.0.1 cpu.baidu.com
-127.0.0.1 cpu-admin.baidu.com
-127.0.0.1 hpd.baidu.com
-127.0.0.1 feed.baidu.com
-#http://pan.baidu.com/
-127.0.0.1 appc.baidu.com
 #http://tieba.baidu.com/
 127.0.0.1 bj.bcebos.com
 127.0.0.1 tob-cms.bj.bcebos.com
@@ -64,3 +63,5 @@
 #http://v.baidu.com/
 127.0.0.1 adx.xiaodutv.com
 127.0.0.1 uat1.bfsspadserver.8le8le.com
+#union-site
+127.0.0.1 cpu-baidu-com-block.cdn.bcebos.com
